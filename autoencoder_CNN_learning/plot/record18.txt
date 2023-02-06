@@ -1,0 +1,21 @@
+2022-10-14 17:25:56.400865
+Start Threshold: 0.02
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.231774	CNN_Loss: 2.302402	Ask_rate: 1.000000	threshold: 0.021700	unq CNN/CNN: 0.000000
+Train Epoch: 1 [6400/60000 (11%)]	AE_Loss: 0.061731	CNN_Loss: 6.500668	Ask_rate: 0.346535	threshold: 0.067500	unq CNN/CNN: 2.156250
+Train Epoch: 1 [12800/60000 (21%)]	AE_Loss: 0.040841	CNN_Loss: 6.500668	Ask_rate: 0.174129	threshold: 0.057500	unq CNN/CNN: 5.281250
+Train Epoch: 1 [19200/60000 (32%)]	AE_Loss: 0.039846	CNN_Loss: 6.500668	Ask_rate: 0.116279	threshold: 0.047500	unq CNN/CNN: 8.406250
+Train Epoch: 1 [25600/60000 (43%)]	AE_Loss: 0.034648	CNN_Loss: 10.257404	Ask_rate: 0.089776	threshold: 0.037500	unq CNN/CNN: 11.531250
+Train Epoch: 1 [32000/60000 (53%)]	AE_Loss: 0.031805	CNN_Loss: 2.366381	Ask_rate: 0.165669	threshold: 0.027500	unq CNN/CNN: 14.656250
+Train Epoch: 1 [38400/60000 (64%)]	AE_Loss: 0.028275	CNN_Loss: 2.243618	Ask_rate: 0.304493	threshold: 0.017500	unq CNN/CNN: 17.781250
+Train Epoch: 1 [44800/60000 (75%)]	AE_Loss: 0.028873	CNN_Loss: 1.763837	Ask_rate: 0.403709	threshold: 0.010000	unq CNN/CNN: 20.125000
+Train Epoch: 1 [51200/60000 (85%)]	AE_Loss: 0.026266	CNN_Loss: 0.914627	Ask_rate: 0.473159	threshold: 0.022500	unq CNN/CNN: 16.404762
+Train Epoch: 1 [57600/60000 (96%)]	AE_Loss: 0.025676	CNN_Loss: 0.632714	Ask_rate: 0.528302	threshold: 0.019700	unq CNN/CNN: 17.065217
+[Epoch 1]
+cnt_over_thres: 508
+cnt_under_thres: 429
+Total Ask_rate: 54.22%
+Test Loss: 0.4801, Accuracy: 84.15%
+cnt_cnn: 49
+unq_cnt_cnn:  818
+CNN_ratio_setting:  17
+

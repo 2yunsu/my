@@ -1,0 +1,49 @@
+4/19(tue)
+
+hsrb_mode
+cd ~/Pycharmprojects/hsr_tidyup/UnseenObjectClustering
+rosrun rviz rviz -d ./ros/segmentation.rviz
+
+hsrb_mode
+cd ~/Pycharmprojects/hsr_tidyup/UnseenObjectClustering
+python ros/Unseen_object_tester.py
+
+hsrb_mode
+cd ~/PycharmProjects/hsr_conversation_learning/online_learning
+python3 stt_publisher
+
+hsrb_mode
+cd ~/PycharmProjects/hsr_conversation_learning/online_learning
+python realtime_unseen_trainer.py 
+
+hsrb_mode
+cd ~/PycharmProjects/hsr_conversation_learning/online_learning
+python main_learning_unseen.py 
+
+
+
+3/10(목)
+
+1. 페퍼 관련 셋업 및 구현 위한 전달 사항 전달.
+문서는 아래의 사이트에서 원하는 모듈 검색해 찾아서 쓰면 된다.
+https://developer.softbankrobotics.com/pepper-naoqi-25/naoqi-developer-guide/naoqi-apis/naoqi-audio/altexttospeech/altexttospeech-api
+
+2. 시나리오 잡아서 구현해보기.
+- python실행시, 사진을 2번 찍어 이 노트북의 이 프로젝트내 폴더에 저장하고, 이름을 말하세요(영어) 하면 내 음성 녹음해서 이것도 이 프로젝트내에 파일로 저장시키기.
+
+-> 이게 되면.
+1. 이 음성을 text로 전환하는거를 다음에 해보면 될듯.
+2. 구체적인 시나리오 잡아서, 찍은 이미지 및 텍스트 등을 모델에 실시간으로 학습 데이터로 넣어서 online learning 시켜보기!
+
+5/24(화)
+앞으로의 목표:
+1. 지금처럼 학습 따로, 추론 따로 하는 것이 아닌 실시간으로 추론하고 학습하는 온라인 모델 구축
+2. 강화학습과의 연결(보다 세밀한 움직임)
+3. 서버에 여러 로봇의 입력 데이터 모아 한 번에 학습
+
+
+https://github.com/jesn1219/pepper_demo_bilab
+
+python version : 2.7.17
+torch==1.4.0
+torchvision==0.5.0

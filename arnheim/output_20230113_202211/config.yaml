@@ -1,0 +1,98 @@
+background_blue: 0
+background_green: 0
+background_red: 0
+background_url: ''
+background_use: Global
+canvas_height: 224
+canvas_width: 224
+clean_up: false
+clip_model: ViT-B/32
+colour_mutation_scale: 0.02
+colour_transformations: RGB space
+compositional_image: false
+cuda: false
+distort_mutation_scale: 0.02
+evolution_frequency: 100
+fixed_scale_coeff: 0.3
+fixed_scale_patches: false
+ga_method: Microbial
+global_prompt: a Picture of Girl with a Pearl Earring
+global_tile_prompt: false
+gradient_clipping: 10.0
+gui: false
+high_res_multiplier: 24
+init_checkpoint: ''
+initial_max_rgb: 0.9
+initial_min_rgb: 0.8
+initial_search_num_steps: 1
+initial_search_size: 1
+invert_colours: false
+learning_rate: 0.05
+max_block_size_high_res: 2000
+max_hue_deg: 360
+max_multiple_visualizations: 5
+max_rgb: 1.0
+max_rot_deg: 180
+max_sat: 1.0
+max_scale: 2
+max_shear: 0.2
+max_squeeze: 2.0
+max_trans: 1
+max_trans_init: 1.0
+max_val: 1.0
+min_hue_deg: 360
+min_rgb: -0.21
+min_rot_deg: -180
+min_sat: 0.0
+min_scale: 1
+min_shear: -0.2
+min_squeeze: 0.5
+min_trans: -1
+min_trans_init: -1.0
+min_val: 0.0
+multiple_fixed_scale_coeff: ''
+multiple_fixed_scale_patches: ''
+multiple_patch_max_proportion: ''
+multiple_patch_set:
+- human_artefacts.npy
+- waste.npy
+- animal_form.npy
+- vegetal_form.npy
+normalize_patch_brightness: false
+num_augs: 16
+num_patches: 100
+optim_steps: 2000
+output_dir: output_20230113_202211/
+patch_height_min: 16
+patch_max_proportion: 4
+patch_mutation_probability: 1
+patch_repo_root: https://storage.googleapis.com/dm_arnheim_3_assets/collage_patches
+patch_set: Load from URL
+patch_width_min: 16
+pop_size: 2
+population_video: true
+pos_and_rot_mutation_scale: 0.02
+prompt_x0_y0: a photorealistic sky with sun
+prompt_x0_y1: a photorealistic tree
+prompt_x0_y2: a photorealistic field
+prompt_x1_y0: a photorealistic sky
+prompt_x1_y1: a photorealistic tree
+prompt_x1_y2: a photorealistic field
+prompt_x2_y0: a photorealistic sky with moon
+prompt_x2_y1: a photorealistic tree
+prompt_x2_y2: a photorealistic chicken
+render_method: transparency
+save_all_arrays: false
+scale_mutation_scale: 0.02
+tile_images: false
+tile_prompt_formating: close-up of {}
+tile_prompt_string: photorealistic sun | photorealistic clouds / photograph of colorful
+  buildings | crowds of people
+tiles_high: 1
+tiles_wide: 1
+torch_device: cuda
+trace_every: 400
+url_to_patch_file: https://storage.googleapis.com/dm_arnheim_3_assets/collage_patches/shore_glass.npy
+use_image_augmentations: true
+use_normalized_clip: false
+video_steps: 100

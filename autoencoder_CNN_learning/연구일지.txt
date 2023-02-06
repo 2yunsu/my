@@ -1,0 +1,17 @@
+2022-10-12
+AE(Auto Encoder)와 CNN의 성능차이 때문에, AE에서는 잘 판단하지만 CNN에서 판단을 못 할 경우, CNN은 계속 틀리는데 AE는 계속 맞다고 판단하는 상황이 발생한다.
+CNN Loss를 threshold 변경에 반영하여 해보자
+
+2022-10-13
+CNN Loss에 대한 threshold를 완만하게 만들기 위해 로그함수를 이용해보면 어떨까?
+->사용해봤으나 어쨌든 1보다 큰 영역에서는 증가함수이기에, threshold를 더 키움
+
+일단 CNN의 Loss에 따라 threshold를 구간별로 다르게 상수로 적용시켜보자.
+->CNN의 Loss는 떨어지는데 Accuracy는 10%에 가까움. CNN의 Loss가, output과 pred 차이를 계산한 값이라, 애초에 다르게 추론하면 틀려도 Loss가 적게 나옴. CNN Loss는 실제로 CNN이 잘 작동하는지 반영하지 못한다.
+따라서, 물어봤을 때의 Loss와 안 물어봤을 때의 Loss를 구분해 안 물어봤을 때의 Loss가 물어봤을 때의 Loss와 비슷하도록 조절! Ask rate를 50% 내리고 Accuracy도 약 90% 유지 성공.
+
+2022-10-14
+영재: 이 학습에서 epoch을 많이 돌리는 게 어떤 의미가 있는가? 한 번 알려줬던 것을 다음 에폭에서 안 알려줬다고해서, 그 데이터를 '안 알려줬다'고 보기는 힘들다. epoch을 한 번만 주는 것이 실험의 의의를 주는 데 명확할 듯.
+윤수: 이 모델은 epoch이 늘어날 경우, AE Loss는 낮아지는데 threshold가 그대로여서 따로 노는 경향이 있어 AE Loss를 threshold에 반영할까 했는데, epoch을 한 번만 준다면 AE Loss를 threshold 조절에 반영할 필요 없을 듯.
+영재: 이 모델의 목표는, 만약 Ask rate가 50%이고 데이터셋이 60000개라면, 30000개의 CNN보다 성능을 좋게하는 것.
+윤수: 일단 이전의 unq_CNN_Loss와 CNN_Loss의 비율을 반영하여 동적으로 threshold 증감을 주는 것을 구현해보겠음.

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LBA/DramaQA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LBA/LBA-DramaQG" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LBA/Scene-Graph-Extraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LBA/ood-diffusion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LBA/ood-diffusion/Scene-Graph-Benchmark.pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LBA/ood-diffusion/apex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LBA/ood-diffusion/cocoapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LBA/ood-diffusion/ood-diffusion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UR-5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arnheim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arnheim/arnheim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devide_team" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hsr_conversation_learning" vcs="Git" />
+  </component>
+</project>

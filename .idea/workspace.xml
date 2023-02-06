@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4377883-a6dd-4750-bee6-cb6fffefae14" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LBA/.idea/LBA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LBA/.idea/LBA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LBA/Scene-Graph-Extraction" beforeDir="false" afterPath="$PROJECT_DIR$/LBA/Scene-Graph-Extraction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LBA/Scene-Graph-Extraction/visualization/1.visualize_PredCls_and_SGCls.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LBA/Scene-Graph-Extraction/visualization/1.visualize_PredCls_and_SGCls.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LBA/skeleton_ys.py" beforeDir="false" afterPath="$PROJECT_DIR$/LBA/skeleton_ys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arnheim/arnheim_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/arnheim/arnheim_3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arnheim/arnheim_3/src/collage.py" beforeDir="false" afterPath="$PROJECT_DIR$/arnheim/arnheim_3/src/collage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arnheim/arnheim_3/src/training.py" beforeDir="false" afterPath="$PROJECT_DIR$/arnheim/arnheim_3/src/training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study/3-min-pytorch" beforeDir="false" afterPath="$PROJECT_DIR$/../Study/3-min-pytorch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study/tensorflow-nlp-tutorial" beforeDir="false" afterPath="$PROJECT_DIR$/../Study/tensorflow-nlp-tutorial" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/arnheim" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/arnheim/npy_reader.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fnz4YZ7kqLC4T2YRHwfmCpqLSd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/lysoo/OneDrive - SNU/문서/github/Research/arnheim"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="a4377883-a6dd-4750-bee6-cb6fffefae14" name="변경" comment="" />
+      <created>1665142445270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665142445270</updated>
+      <workItem from="1665142446555" duration="52000" />
+      <workItem from="1665380973170" duration="143000" />
+      <workItem from="1674642216560" duration="933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

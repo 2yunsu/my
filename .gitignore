@@ -1,0 +1,6 @@
+LBA/
+autoencoder_CNN_learning/.data/cifar-10-python.tar.gz
+arnheim/collage_patches/magazine.npy
+arnheim/animals.npy
+arnheim/collage_patches/handwritten_mnist.npy
+arnheim/output_20230113_200421/tile_y0_x0.npy

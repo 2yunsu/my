@@ -1,0 +1,690 @@
+2022-10-11 15:17:02.424921
+[Train Epoch 1]
+cnt_over_thres 58494
+cnt_under_thres 1506
+Ask_rate: 0.974900
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.046124	CNN_Loss: 0.031178	Ask_rate: 0.968000
+Train Epoch: 2 [2000/60000 (3%)]	AE_Loss: 0.064244	CNN_Loss: 0.000000	Ask_rate: 0.972500
+Train Epoch: 2 [4000/60000 (7%)]	AE_Loss: 0.052430	CNN_Loss: 0.000002	Ask_rate: 0.984500
+Train Epoch: 2 [6000/60000 (10%)]	AE_Loss: 0.035625	CNN_Loss: 0.000000	Ask_rate: 0.972000
+Train Epoch: 2 [8000/60000 (13%)]	AE_Loss: 0.046621	CNN_Loss: 0.000021	Ask_rate: 0.973000
+Train Epoch: 2 [10000/60000 (17%)]	AE_Loss: 0.068682	CNN_Loss: 0.000002	Ask_rate: 0.972000
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.054134	CNN_Loss: 0.000038	Ask_rate: 0.972500
+Train Epoch: 2 [14000/60000 (23%)]	AE_Loss: 0.041233	CNN_Loss: 0.011856	Ask_rate: 0.970000
+Train Epoch: 2 [16000/60000 (27%)]	AE_Loss: 0.046718	CNN_Loss: 0.000193	Ask_rate: 0.967000
+Train Epoch: 2 [18000/60000 (30%)]	AE_Loss: 0.052148	CNN_Loss: 0.000000	Ask_rate: 0.955500
+Train Epoch: 2 [20000/60000 (33%)]	AE_Loss: 0.038267	CNN_Loss: 0.002613	Ask_rate: 0.974500
+Train Epoch: 2 [22000/60000 (37%)]	AE_Loss: 0.076054	CNN_Loss: 0.000000	Ask_rate: 0.977000
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.043057	CNN_Loss: 0.000000	Ask_rate: 0.972000
+Train Epoch: 2 [26000/60000 (43%)]	AE_Loss: 0.049490	CNN_Loss: 0.000010	Ask_rate: 0.972500
+Train Epoch: 2 [28000/60000 (47%)]	AE_Loss: 0.042323	CNN_Loss: 0.000374	Ask_rate: 0.975000
+Train Epoch: 2 [30000/60000 (50%)]	AE_Loss: 0.057914	CNN_Loss: 0.000000	Ask_rate: 0.973500
+Train Epoch: 2 [32000/60000 (53%)]	AE_Loss: 0.055046	CNN_Loss: 0.761034	Ask_rate: 0.975500
+Train Epoch: 2 [34000/60000 (57%)]	AE_Loss: 0.049629	CNN_Loss: 0.000000	Ask_rate: 0.980500
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.034033	CNN_Loss: 0.015127	Ask_rate: 0.968000
+Train Epoch: 2 [38000/60000 (63%)]	AE_Loss: 0.044767	CNN_Loss: 0.000000	Ask_rate: 0.968500
+Train Epoch: 2 [40000/60000 (67%)]	AE_Loss: 0.042928	CNN_Loss: 0.000000	Ask_rate: 0.966500
+Train Epoch: 2 [42000/60000 (70%)]	AE_Loss: 0.038935	CNN_Loss: 1.848248	Ask_rate: 0.972000
+Train Epoch: 2 [44000/60000 (73%)]	AE_Loss: 0.052593	CNN_Loss: 0.000000	Ask_rate: 0.964000
+Train Epoch: 2 [46000/60000 (77%)]	AE_Loss: 0.075503	CNN_Loss: 0.000008	Ask_rate: 0.975000
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.067568	CNN_Loss: 0.000011	Ask_rate: 0.970000
+Train Epoch: 2 [50000/60000 (83%)]	AE_Loss: 0.038039	CNN_Loss: 0.000000	Ask_rate: 0.968500
+Train Epoch: 2 [52000/60000 (87%)]	AE_Loss: 0.037821	CNN_Loss: 0.000119	Ask_rate: 0.975000
+Train Epoch: 2 [54000/60000 (90%)]	AE_Loss: 0.042817	CNN_Loss: 0.000002	Ask_rate: 0.976500
+Train Epoch: 2 [56000/60000 (93%)]	AE_Loss: 0.031746	CNN_Loss: 0.000000	Ask_rate: 0.969500
+Train Epoch: 2 [58000/60000 (97%)]	AE_Loss: 0.026351	CNN_Loss: 0.000138	Ask_rate: 0.967000
+2022-10-11 15:26:27.174325
+[Train Epoch 2]
+cnt_over_thres 116791
+cnt_under_thres 3209
+Ask_rate: 0.973258
+Threshold: 0.01
+Test Loss: 0.0884, Accuracy: 97.46%
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.043271	CNN_Loss: 0.000000	Ask_rate: 1.000000
+Train Epoch: 1 [2000/60000 (3%)]	AE_Loss: 0.102784	CNN_Loss: 0.000011	Ask_rate: 0.911000
+Train Epoch: 1 [4000/60000 (7%)]	AE_Loss: 0.089122	CNN_Loss: 0.000000	Ask_rate: 0.894000
+Train Epoch: 1 [6000/60000 (10%)]	AE_Loss: 0.031843	CNN_Loss: 0.008061	Ask_rate: 0.904000
+Train Epoch: 1 [8000/60000 (13%)]	AE_Loss: 0.005064	CNN_Loss: 0.000000	Ask_rate: 0.898500
+Train Epoch: 1 [10000/60000 (17%)]	AE_Loss: 0.051419	CNN_Loss: 0.000000	Ask_rate: 0.900000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.061584	CNN_Loss: 0.000000	Ask_rate: 0.913500
+Train Epoch: 1 [14000/60000 (23%)]	AE_Loss: 0.008392	CNN_Loss: 0.000006	Ask_rate: 0.894000
+Train Epoch: 1 [16000/60000 (27%)]	AE_Loss: 0.013043	CNN_Loss: 0.000000	Ask_rate: 0.902000
+Train Epoch: 1 [18000/60000 (30%)]	AE_Loss: 0.028811	CNN_Loss: 0.001201	Ask_rate: 0.900500
+Train Epoch: 1 [20000/60000 (33%)]	AE_Loss: 0.035193	CNN_Loss: 0.000113	Ask_rate: 0.902000
+Train Epoch: 1 [22000/60000 (37%)]	AE_Loss: 0.037719	CNN_Loss: 0.000000	Ask_rate: 0.922000
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.046048	CNN_Loss: 0.000129	Ask_rate: 0.916000
+Train Epoch: 1 [26000/60000 (43%)]	AE_Loss: 0.063743	CNN_Loss: 0.000000	Ask_rate: 0.919000
+Train Epoch: 1 [28000/60000 (47%)]	AE_Loss: 0.057083	CNN_Loss: 0.000000	Ask_rate: 0.905500
+Train Epoch: 1 [30000/60000 (50%)]	AE_Loss: 0.046064	CNN_Loss: 0.000000	Ask_rate: 0.909500
+Train Epoch: 1 [32000/60000 (53%)]	AE_Loss: 0.056063	CNN_Loss: 0.000000	Ask_rate: 0.912500
+Train Epoch: 1 [34000/60000 (57%)]	AE_Loss: 0.045154	CNN_Loss: 0.000000	Ask_rate: 0.902500
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.049358	CNN_Loss: 0.000000	Ask_rate: 0.906500
+Train Epoch: 1 [38000/60000 (63%)]	AE_Loss: 0.059260	CNN_Loss: 0.000000	Ask_rate: 0.903500
+Train Epoch: 1 [40000/60000 (67%)]	AE_Loss: 0.057882	CNN_Loss: 0.000228	Ask_rate: 0.902000
+Train Epoch: 1 [42000/60000 (70%)]	AE_Loss: 0.053735	CNN_Loss: 0.000002	Ask_rate: 0.903500
+Train Epoch: 1 [44000/60000 (73%)]	AE_Loss: 0.035760	CNN_Loss: 0.000000	Ask_rate: 0.899500
+Train Epoch: 1 [46000/60000 (77%)]	AE_Loss: 0.026807	CNN_Loss: 0.000000	Ask_rate: 0.900000
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.042245	CNN_Loss: 0.000025	Ask_rate: 0.906000
+Train Epoch: 1 [50000/60000 (83%)]	AE_Loss: 0.046220	CNN_Loss: 0.009577	Ask_rate: 0.900500
+Train Epoch: 1 [52000/60000 (87%)]	AE_Loss: 0.011357	CNN_Loss: 0.320595	Ask_rate: 0.915000
+Train Epoch: 1 [54000/60000 (90%)]	AE_Loss: 0.041905	CNN_Loss: 0.000000	Ask_rate: 0.919500
+Train Epoch: 1 [56000/60000 (93%)]	AE_Loss: 0.047279	CNN_Loss: 0.000009	Ask_rate: 0.911500
+Train Epoch: 1 [58000/60000 (97%)]	AE_Loss: 0.088715	CNN_Loss: 0.005708	Ask_rate: 0.932500
+2022-10-11 15:36:17.790154
+[Train Epoch 1]
+cnt_over_thres 54447
+cnt_under_thres 5553
+Ask_rate: 0.907450
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.022348	CNN_Loss: 0.002448	Ask_rate: 0.917000
+Train Epoch: 2 [2000/60000 (3%)]	AE_Loss: 0.056044	CNN_Loss: 0.000000	Ask_rate: 0.905500
+Train Epoch: 2 [4000/60000 (7%)]	AE_Loss: 0.038327	CNN_Loss: 0.000000	Ask_rate: 0.899000
+Train Epoch: 2 [6000/60000 (10%)]	AE_Loss: 0.068169	CNN_Loss: 0.000000	Ask_rate: 0.909000
+Train Epoch: 2 [8000/60000 (13%)]	AE_Loss: 0.037717	CNN_Loss: 0.000065	Ask_rate: 0.915000
+Train Epoch: 2 [10000/60000 (17%)]	AE_Loss: 0.042456	CNN_Loss: 0.000088	Ask_rate: 0.906000
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.031673	CNN_Loss: 0.000000	Ask_rate: 0.911500
+Train Epoch: 2 [14000/60000 (23%)]	AE_Loss: 0.036740	CNN_Loss: 0.000000	Ask_rate: 0.907000
+Train Epoch: 2 [16000/60000 (27%)]	AE_Loss: 0.047245	CNN_Loss: 0.000000	Ask_rate: 0.918500
+Train Epoch: 2 [18000/60000 (30%)]	AE_Loss: 0.043455	CNN_Loss: 14.412471	Ask_rate: 0.913500
+Train Epoch: 2 [20000/60000 (33%)]	AE_Loss: 0.043178	CNN_Loss: 0.019422	Ask_rate: 0.917000
+Train Epoch: 2 [22000/60000 (37%)]	AE_Loss: 0.022018	CNN_Loss: 0.000004	Ask_rate: 0.902000
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.029477	CNN_Loss: 0.000000	Ask_rate: 0.894000
+Train Epoch: 2 [26000/60000 (43%)]	AE_Loss: 0.010455	CNN_Loss: 0.000107	Ask_rate: 0.923500
+Train Epoch: 2 [28000/60000 (47%)]	AE_Loss: 0.049134	CNN_Loss: 0.000000	Ask_rate: 0.920500
+Train Epoch: 2 [30000/60000 (50%)]	AE_Loss: 0.031715	CNN_Loss: 0.000000	Ask_rate: 0.908500
+Train Epoch: 2 [32000/60000 (53%)]	AE_Loss: 0.036456	CNN_Loss: 0.000000	Ask_rate: 0.905500
+Train Epoch: 2 [34000/60000 (57%)]	AE_Loss: 0.057229	CNN_Loss: 0.000000	Ask_rate: 0.905000
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.058765	CNN_Loss: 0.000000	Ask_rate: 0.909500
+Train Epoch: 2 [38000/60000 (63%)]	AE_Loss: 0.009699	CNN_Loss: 0.000000	Ask_rate: 0.909000
+Train Epoch: 2 [40000/60000 (67%)]	AE_Loss: 0.052799	CNN_Loss: 0.000000	Ask_rate: 0.940500
+Train Epoch: 2 [42000/60000 (70%)]	AE_Loss: 0.056919	CNN_Loss: 0.000340	Ask_rate: 0.944500
+Train Epoch: 2 [44000/60000 (73%)]	AE_Loss: 0.036388	CNN_Loss: 0.734939	Ask_rate: 0.899500
+Train Epoch: 2 [46000/60000 (77%)]	AE_Loss: 0.050347	CNN_Loss: 0.000670	Ask_rate: 0.911500
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.052016	CNN_Loss: 0.592281	Ask_rate: 0.907500
+Train Epoch: 2 [50000/60000 (83%)]	AE_Loss: 0.039222	CNN_Loss: 0.000000	Ask_rate: 0.904500
+Train Epoch: 2 [52000/60000 (87%)]	AE_Loss: 0.075216	CNN_Loss: 0.246325	Ask_rate: 0.913500
+Train Epoch: 2 [54000/60000 (90%)]	AE_Loss: 0.047309	CNN_Loss: 0.000000	Ask_rate: 0.898000
+Train Epoch: 2 [56000/60000 (93%)]	AE_Loss: 0.062525	CNN_Loss: 0.091379	Ask_rate: 0.926500
+Train Epoch: 2 [58000/60000 (97%)]	AE_Loss: 0.066417	CNN_Loss: 0.000000	Ask_rate: 0.923500
+2022-10-11 15:45:43.104595
+[Train Epoch 2]
+cnt_over_thres 109181
+cnt_under_thres 10819
+Ask_rate: 0.909842
+Threshold: 0.02
+Test Loss: 0.1339, Accuracy: 97.01%
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.047262	CNN_Loss: 0.000072	Ask_rate: 1.000000
+Train Epoch: 1 [2000/60000 (3%)]	AE_Loss: 0.012691	CNN_Loss: 0.000000	Ask_rate: 0.824000
+Train Epoch: 1 [4000/60000 (7%)]	AE_Loss: 0.041950	CNN_Loss: 0.000000	Ask_rate: 0.788500
+Train Epoch: 1 [6000/60000 (10%)]	AE_Loss: 0.035430	CNN_Loss: 0.000000	Ask_rate: 0.815500
+Train Epoch: 1 [8000/60000 (13%)]	AE_Loss: 0.045478	CNN_Loss: 0.000000	Ask_rate: 0.798000
+Train Epoch: 1 [10000/60000 (17%)]	AE_Loss: 0.041555	CNN_Loss: 0.000137	Ask_rate: 0.795500
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.040512	CNN_Loss: 0.003738	Ask_rate: 0.832500
+Train Epoch: 1 [14000/60000 (23%)]	AE_Loss: 0.035535	CNN_Loss: 0.000587	Ask_rate: 0.815000
+Train Epoch: 1 [16000/60000 (27%)]	AE_Loss: 0.025201	CNN_Loss: 0.014772	Ask_rate: 0.821500
+Train Epoch: 1 [18000/60000 (30%)]	AE_Loss: 0.015229	CNN_Loss: 0.000000	Ask_rate: 0.817500
+Train Epoch: 1 [20000/60000 (33%)]	AE_Loss: 0.036802	CNN_Loss: 0.000320	Ask_rate: 0.808500
+Train Epoch: 1 [22000/60000 (37%)]	AE_Loss: 0.025068	CNN_Loss: 0.000000	Ask_rate: 0.788000
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.046703	CNN_Loss: 0.000000	Ask_rate: 0.805500
+Train Epoch: 1 [26000/60000 (43%)]	AE_Loss: 0.019963	CNN_Loss: 0.000000	Ask_rate: 0.794500
+Train Epoch: 1 [28000/60000 (47%)]	AE_Loss: 0.043787	CNN_Loss: 0.000000	Ask_rate: 0.797000
+Train Epoch: 1 [30000/60000 (50%)]	AE_Loss: 0.050941	CNN_Loss: 0.000000	Ask_rate: 0.809500
+Train Epoch: 1 [32000/60000 (53%)]	AE_Loss: 0.053799	CNN_Loss: 0.000000	Ask_rate: 0.812000
+Train Epoch: 1 [34000/60000 (57%)]	AE_Loss: 0.047648	CNN_Loss: 10.606816	Ask_rate: 0.807000
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.039857	CNN_Loss: 0.000000	Ask_rate: 0.807000
+Train Epoch: 1 [38000/60000 (63%)]	AE_Loss: 0.031083	CNN_Loss: 0.000000	Ask_rate: 0.822500
+Train Epoch: 1 [40000/60000 (67%)]	AE_Loss: 0.057428	CNN_Loss: 0.000002	Ask_rate: 0.833500
+Train Epoch: 1 [42000/60000 (70%)]	AE_Loss: 0.044608	CNN_Loss: 0.000000	Ask_rate: 0.802000
+Train Epoch: 1 [44000/60000 (73%)]	AE_Loss: 0.010613	CNN_Loss: 0.000002	Ask_rate: 0.788000
+Train Epoch: 1 [46000/60000 (77%)]	AE_Loss: 0.032036	CNN_Loss: 0.000000	Ask_rate: 0.797500
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.089418	CNN_Loss: 0.000200	Ask_rate: 0.826000
+Train Epoch: 1 [50000/60000 (83%)]	AE_Loss: 0.059987	CNN_Loss: 0.000000	Ask_rate: 0.806000
+Train Epoch: 1 [52000/60000 (87%)]	AE_Loss: 0.030653	CNN_Loss: 0.000004	Ask_rate: 0.814000
+Train Epoch: 1 [54000/60000 (90%)]	AE_Loss: 0.046030	CNN_Loss: 0.000000	Ask_rate: 0.815500
+Train Epoch: 1 [56000/60000 (93%)]	AE_Loss: 0.039896	CNN_Loss: 0.000002	Ask_rate: 0.803000
+Train Epoch: 1 [58000/60000 (97%)]	AE_Loss: 0.044957	CNN_Loss: 0.002091	Ask_rate: 0.817000
+2022-10-11 15:55:31.278563
+[Train Epoch 1]
+cnt_over_thres 48515
+cnt_under_thres 11485
+Ask_rate: 0.808583
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.060974	CNN_Loss: 0.000000	Ask_rate: 0.795500
+Train Epoch: 2 [2000/60000 (3%)]	AE_Loss: 0.087109	CNN_Loss: 0.000000	Ask_rate: 0.785000
+Train Epoch: 2 [4000/60000 (7%)]	AE_Loss: 0.063751	CNN_Loss: 0.068992	Ask_rate: 0.796500
+Train Epoch: 2 [6000/60000 (10%)]	AE_Loss: 0.058576	CNN_Loss: 0.000000	Ask_rate: 0.803000
+Train Epoch: 2 [8000/60000 (13%)]	AE_Loss: 0.037052	CNN_Loss: 0.000061	Ask_rate: 0.793000
+Train Epoch: 2 [10000/60000 (17%)]	AE_Loss: 0.041608	CNN_Loss: 0.000000	Ask_rate: 0.799000
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.062974	CNN_Loss: 0.029479	Ask_rate: 0.786000
+Train Epoch: 2 [14000/60000 (23%)]	AE_Loss: 0.041900	CNN_Loss: 0.000000	Ask_rate: 0.812000
+Train Epoch: 2 [16000/60000 (27%)]	AE_Loss: 0.041400	CNN_Loss: 0.000011	Ask_rate: 0.824500
+Train Epoch: 2 [18000/60000 (30%)]	AE_Loss: 0.045888	CNN_Loss: 0.000000	Ask_rate: 0.797000
+Train Epoch: 2 [20000/60000 (33%)]	AE_Loss: 0.035702	CNN_Loss: 0.000000	Ask_rate: 0.813000
+Train Epoch: 2 [22000/60000 (37%)]	AE_Loss: 0.035274	CNN_Loss: 2.460871	Ask_rate: 0.809000
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.032593	CNN_Loss: 0.000000	Ask_rate: 0.773000
+Train Epoch: 2 [26000/60000 (43%)]	AE_Loss: 0.050127	CNN_Loss: 0.000004	Ask_rate: 0.782500
+Train Epoch: 2 [28000/60000 (47%)]	AE_Loss: 0.039629	CNN_Loss: 0.000580	Ask_rate: 0.779000
+Train Epoch: 2 [30000/60000 (50%)]	AE_Loss: 0.051085	CNN_Loss: 0.000000	Ask_rate: 0.807000
+Train Epoch: 2 [32000/60000 (53%)]	AE_Loss: 0.043959	CNN_Loss: 0.000000	Ask_rate: 0.790000
+Train Epoch: 2 [34000/60000 (57%)]	AE_Loss: 0.027639	CNN_Loss: 0.000002	Ask_rate: 0.786500
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.048861	CNN_Loss: 0.000000	Ask_rate: 0.783000
+Train Epoch: 2 [38000/60000 (63%)]	AE_Loss: 0.014882	CNN_Loss: 0.000000	Ask_rate: 0.793500
+Train Epoch: 2 [40000/60000 (67%)]	AE_Loss: 0.033267	CNN_Loss: 0.000071	Ask_rate: 0.805500
+Train Epoch: 2 [42000/60000 (70%)]	AE_Loss: 0.041285	CNN_Loss: 0.000000	Ask_rate: 0.793500
+Train Epoch: 2 [44000/60000 (73%)]	AE_Loss: 0.045661	CNN_Loss: 1.372312	Ask_rate: 0.795500
+Train Epoch: 2 [46000/60000 (77%)]	AE_Loss: 0.009319	CNN_Loss: 0.000000	Ask_rate: 0.783500
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.044317	CNN_Loss: 0.000949	Ask_rate: 0.809000
+Train Epoch: 2 [50000/60000 (83%)]	AE_Loss: 0.071623	CNN_Loss: 0.000027	Ask_rate: 0.817000
+Train Epoch: 2 [52000/60000 (87%)]	AE_Loss: 0.043706	CNN_Loss: 0.007230	Ask_rate: 0.817500
+Train Epoch: 2 [54000/60000 (90%)]	AE_Loss: 0.043617	CNN_Loss: 0.000000	Ask_rate: 0.806500
+Train Epoch: 2 [56000/60000 (93%)]	AE_Loss: 0.028245	CNN_Loss: 0.470846	Ask_rate: 0.812500
+Train Epoch: 2 [58000/60000 (97%)]	AE_Loss: 0.029181	CNN_Loss: 0.672720	Ask_rate: 0.790000
+2022-10-11 16:04:56.855058
+[Train Epoch 2]
+cnt_over_thres 96398
+cnt_under_thres 23602
+Ask_rate: 0.803317
+Threshold: 0.03
+Test Loss: 0.3146, Accuracy: 95.38%
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.046318	CNN_Loss: 0.000000	Ask_rate: 1.000000
+Train Epoch: 1 [2000/60000 (3%)]	AE_Loss: 0.037492	CNN_Loss: 0.000000	Ask_rate: 0.574500
+Train Epoch: 1 [4000/60000 (7%)]	AE_Loss: 0.032131	CNN_Loss: 0.000000	Ask_rate: 0.560000
+Train Epoch: 1 [6000/60000 (10%)]	AE_Loss: 0.068875	CNN_Loss: 0.000000	Ask_rate: 0.594000
+Train Epoch: 1 [8000/60000 (13%)]	AE_Loss: 0.054113	CNN_Loss: 4.011445	Ask_rate: 0.556500
+Train Epoch: 1 [10000/60000 (17%)]	AE_Loss: 0.042041	CNN_Loss: 2.833427	Ask_rate: 0.547500
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.053592	CNN_Loss: 0.000000	Ask_rate: 0.573000
+Train Epoch: 1 [14000/60000 (23%)]	AE_Loss: 0.044083	CNN_Loss: 2.191952	Ask_rate: 0.594500
+Train Epoch: 1 [16000/60000 (27%)]	AE_Loss: 0.037601	CNN_Loss: 0.646173	Ask_rate: 0.577500
+Train Epoch: 1 [18000/60000 (30%)]	AE_Loss: 0.025980	CNN_Loss: 0.660808	Ask_rate: 0.584500
+Train Epoch: 1 [20000/60000 (33%)]	AE_Loss: 0.028033	CNN_Loss: 0.647497	Ask_rate: 0.574500
+Train Epoch: 1 [22000/60000 (37%)]	AE_Loss: 0.064035	CNN_Loss: 0.792281	Ask_rate: 0.583000
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.021330	CNN_Loss: 0.745477	Ask_rate: 0.564500
+Train Epoch: 1 [26000/60000 (43%)]	AE_Loss: 0.007836	CNN_Loss: 0.653695	Ask_rate: 0.560000
+Train Epoch: 1 [28000/60000 (47%)]	AE_Loss: 0.031052	CNN_Loss: 0.820272	Ask_rate: 0.553000
+Train Epoch: 1 [30000/60000 (50%)]	AE_Loss: 0.029565	CNN_Loss: 0.623948	Ask_rate: 0.573000
+Train Epoch: 1 [32000/60000 (53%)]	AE_Loss: 0.039264	CNN_Loss: 0.748005	Ask_rate: 0.561000
+Train Epoch: 1 [34000/60000 (57%)]	AE_Loss: 0.038947	CNN_Loss: 0.727432	Ask_rate: 0.584500
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.012678	CNN_Loss: 0.687255	Ask_rate: 0.558000
+Train Epoch: 1 [38000/60000 (63%)]	AE_Loss: 0.042494	CNN_Loss: 2.647562	Ask_rate: 0.578000
+Train Epoch: 1 [40000/60000 (67%)]	AE_Loss: 0.030872	CNN_Loss: 0.703953	Ask_rate: 0.555000
+Train Epoch: 1 [42000/60000 (70%)]	AE_Loss: 0.051487	CNN_Loss: 2.948702	Ask_rate: 0.545000
+Train Epoch: 1 [44000/60000 (73%)]	AE_Loss: 0.046201	CNN_Loss: 2.726814	Ask_rate: 0.542500
+Train Epoch: 1 [46000/60000 (77%)]	AE_Loss: 0.069506	CNN_Loss: 2.506558	Ask_rate: 0.565000
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.072871	CNN_Loss: 2.908937	Ask_rate: 0.560500
+Train Epoch: 1 [50000/60000 (83%)]	AE_Loss: 0.032130	CNN_Loss: 0.715165	Ask_rate: 0.570500
+Train Epoch: 1 [52000/60000 (87%)]	AE_Loss: 0.046464	CNN_Loss: 0.715160	Ask_rate: 0.546000
+Train Epoch: 1 [54000/60000 (90%)]	AE_Loss: 0.027893	CNN_Loss: 0.609076	Ask_rate: 0.583000
+Train Epoch: 1 [56000/60000 (93%)]	AE_Loss: 0.065762	CNN_Loss: 2.422362	Ask_rate: 0.593000
+Train Epoch: 1 [58000/60000 (97%)]	AE_Loss: 0.054541	CNN_Loss: 2.702845	Ask_rate: 0.577000
+2022-10-11 16:14:37.089095
+[Train Epoch 1]
+cnt_over_thres 34180
+cnt_under_thres 25820
+Ask_rate: 0.569667
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.018156	CNN_Loss: 0.807007	Ask_rate: 0.600500
+Train Epoch: 2 [2000/60000 (3%)]	AE_Loss: 0.043210	CNN_Loss: 3.319505	Ask_rate: 0.544000
+Train Epoch: 2 [4000/60000 (7%)]	AE_Loss: 0.045973	CNN_Loss: 2.382106	Ask_rate: 0.571500
+Train Epoch: 2 [6000/60000 (10%)]	AE_Loss: 0.031041	CNN_Loss: 0.709418	Ask_rate: 0.555500
+Train Epoch: 2 [8000/60000 (13%)]	AE_Loss: 0.028263	CNN_Loss: 0.608866	Ask_rate: 0.566500
+Train Epoch: 2 [10000/60000 (17%)]	AE_Loss: 0.037437	CNN_Loss: 0.638629	Ask_rate: 0.578000
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.039376	CNN_Loss: 0.672991	Ask_rate: 0.543000
+Train Epoch: 2 [14000/60000 (23%)]	AE_Loss: 0.038066	CNN_Loss: 0.726912	Ask_rate: 0.547000
+Train Epoch: 2 [16000/60000 (27%)]	AE_Loss: 0.040424	CNN_Loss: 2.342684	Ask_rate: 0.576500
+Train Epoch: 2 [18000/60000 (30%)]	AE_Loss: 0.039574	CNN_Loss: 0.798550	Ask_rate: 0.572500
+Train Epoch: 2 [20000/60000 (33%)]	AE_Loss: 0.043330	CNN_Loss: 2.579878	Ask_rate: 0.598000
+Train Epoch: 2 [22000/60000 (37%)]	AE_Loss: 0.022552	CNN_Loss: 0.763789	Ask_rate: 0.581500
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.041856	CNN_Loss: 0.636558	Ask_rate: 0.559000
+Train Epoch: 2 [26000/60000 (43%)]	AE_Loss: 0.029470	CNN_Loss: 0.595108	Ask_rate: 0.551000
+Train Epoch: 2 [28000/60000 (47%)]	AE_Loss: 0.042423	CNN_Loss: 2.904257	Ask_rate: 0.599000
+Train Epoch: 2 [30000/60000 (50%)]	AE_Loss: 0.039129	CNN_Loss: 0.635561	Ask_rate: 0.559000
+Train Epoch: 2 [32000/60000 (53%)]	AE_Loss: 0.042446	CNN_Loss: 0.652617	Ask_rate: 0.591500
+Train Epoch: 2 [34000/60000 (57%)]	AE_Loss: 0.026939	CNN_Loss: 0.666156	Ask_rate: 0.563000
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.046220	CNN_Loss: 2.217222	Ask_rate: 0.575000
+Train Epoch: 2 [38000/60000 (63%)]	AE_Loss: 0.020171	CNN_Loss: 0.688827	Ask_rate: 0.564000
+Train Epoch: 2 [40000/60000 (67%)]	AE_Loss: 0.014282	CNN_Loss: 0.823756	Ask_rate: 0.597500
+Train Epoch: 2 [42000/60000 (70%)]	AE_Loss: 0.032427	CNN_Loss: 0.620197	Ask_rate: 0.579500
+Train Epoch: 2 [44000/60000 (73%)]	AE_Loss: 0.026901	CNN_Loss: 0.655658	Ask_rate: 0.553000
+Train Epoch: 2 [46000/60000 (77%)]	AE_Loss: 0.048151	CNN_Loss: 2.564733	Ask_rate: 0.574500
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.042138	CNN_Loss: 2.768244	Ask_rate: 0.559000
+Train Epoch: 2 [50000/60000 (83%)]	AE_Loss: 0.040389	CNN_Loss: 3.367542	Ask_rate: 0.586500
+Train Epoch: 2 [52000/60000 (87%)]	AE_Loss: 0.038586	CNN_Loss: 0.672232	Ask_rate: 0.590500
+Train Epoch: 2 [54000/60000 (90%)]	AE_Loss: 0.053775	CNN_Loss: 2.731768	Ask_rate: 0.568500
+Train Epoch: 2 [56000/60000 (93%)]	AE_Loss: 0.084482	CNN_Loss: 5.169637	Ask_rate: 0.572000
+Train Epoch: 2 [58000/60000 (97%)]	AE_Loss: 0.039435	CNN_Loss: 0.633788	Ask_rate: 0.538500
+2022-10-11 16:23:47.679351
+[Train Epoch 2]
+cnt_over_thres 68324
+cnt_under_thres 51676
+Ask_rate: 0.569367
+Threshold: 0.04
+Test Loss: 2.8956, Accuracy: 9.74%
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.062824	CNN_Loss: 2.557713	Ask_rate: 1.000000
+Train Epoch: 1 [2000/60000 (3%)]	AE_Loss: 0.061291	CNN_Loss: 4.077390	Ask_rate: 0.320000
+Train Epoch: 1 [4000/60000 (7%)]	AE_Loss: 0.035120	CNN_Loss: 0.304065	Ask_rate: 0.328000
+Train Epoch: 1 [6000/60000 (10%)]	AE_Loss: 0.038206	CNN_Loss: 0.323845	Ask_rate: 0.337500
+Train Epoch: 1 [8000/60000 (13%)]	AE_Loss: 0.021060	CNN_Loss: 0.395246	Ask_rate: 0.357500
+Train Epoch: 1 [10000/60000 (17%)]	AE_Loss: 0.035410	CNN_Loss: 0.348510	Ask_rate: 0.322000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.068641	CNN_Loss: 3.454989	Ask_rate: 0.334500
+Train Epoch: 1 [14000/60000 (23%)]	AE_Loss: 0.069119	CNN_Loss: 3.251892	Ask_rate: 0.334000
+Train Epoch: 1 [16000/60000 (27%)]	AE_Loss: 0.037717	CNN_Loss: 0.325356	Ask_rate: 0.323000
+Train Epoch: 1 [18000/60000 (30%)]	AE_Loss: 0.040247	CNN_Loss: 0.411521	Ask_rate: 0.325500
+Train Epoch: 1 [20000/60000 (33%)]	AE_Loss: 0.047346	CNN_Loss: 0.331678	Ask_rate: 0.328000
+Train Epoch: 1 [22000/60000 (37%)]	AE_Loss: 0.015795	CNN_Loss: 0.321949	Ask_rate: 0.325500
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.038856	CNN_Loss: 0.300978	Ask_rate: 0.319500
+Train Epoch: 1 [26000/60000 (43%)]	AE_Loss: 0.049459	CNN_Loss: 0.351542	Ask_rate: 0.324500
+Train Epoch: 1 [28000/60000 (47%)]	AE_Loss: 0.016114	CNN_Loss: 0.345712	Ask_rate: 0.327500
+Train Epoch: 1 [30000/60000 (50%)]	AE_Loss: 0.035161	CNN_Loss: 0.293729	Ask_rate: 0.331000
+Train Epoch: 1 [32000/60000 (53%)]	AE_Loss: 0.038796	CNN_Loss: 0.297394	Ask_rate: 0.341000
+Train Epoch: 1 [34000/60000 (57%)]	AE_Loss: 0.038217	CNN_Loss: 0.328289	Ask_rate: 0.348000
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.066744	CNN_Loss: 2.722641	Ask_rate: 0.324000
+Train Epoch: 1 [38000/60000 (63%)]	AE_Loss: 0.056231	CNN_Loss: 3.240138	Ask_rate: 0.320500
+Train Epoch: 1 [40000/60000 (67%)]	AE_Loss: 0.042171	CNN_Loss: 0.312108	Ask_rate: 0.305000
+Train Epoch: 1 [42000/60000 (70%)]	AE_Loss: 0.054101	CNN_Loss: 2.794529	Ask_rate: 0.329500
+Train Epoch: 1 [44000/60000 (73%)]	AE_Loss: 0.034794	CNN_Loss: 0.309937	Ask_rate: 0.329000
+Train Epoch: 1 [46000/60000 (77%)]	AE_Loss: 0.065030	CNN_Loss: 2.783937	Ask_rate: 0.348500
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.074936	CNN_Loss: 3.073066	Ask_rate: 0.310000
+Train Epoch: 1 [50000/60000 (83%)]	AE_Loss: 0.037773	CNN_Loss: 0.269714	Ask_rate: 0.333500
+Train Epoch: 1 [52000/60000 (87%)]	AE_Loss: 0.058522	CNN_Loss: 3.219237	Ask_rate: 0.337500
+Train Epoch: 1 [54000/60000 (90%)]	AE_Loss: 0.027965	CNN_Loss: 0.314114	Ask_rate: 0.322000
+Train Epoch: 1 [56000/60000 (93%)]	AE_Loss: 0.052376	CNN_Loss: 3.098543	Ask_rate: 0.330000
+Train Epoch: 1 [58000/60000 (97%)]	AE_Loss: 0.032365	CNN_Loss: 0.325943	Ask_rate: 0.327000
+2022-10-11 16:33:09.508068
+[Train Epoch 1]
+cnt_over_thres 19841
+cnt_under_thres 40159
+Ask_rate: 0.330683
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.057771	CNN_Loss: 0.334253	Ask_rate: 0.377000
+Train Epoch: 2 [2000/60000 (3%)]	AE_Loss: 0.023508	CNN_Loss: 0.277366	Ask_rate: 0.310500
+Train Epoch: 2 [4000/60000 (7%)]	AE_Loss: 0.066566	CNN_Loss: 0.272712	Ask_rate: 0.327000
+Train Epoch: 2 [6000/60000 (10%)]	AE_Loss: 0.041441	CNN_Loss: 0.346464	Ask_rate: 0.322500
+Train Epoch: 2 [8000/60000 (13%)]	AE_Loss: 0.047127	CNN_Loss: 0.389344	Ask_rate: 0.351500
+Train Epoch: 2 [10000/60000 (17%)]	AE_Loss: 0.031442	CNN_Loss: 0.356333	Ask_rate: 0.354500
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.054950	CNN_Loss: 0.335958	Ask_rate: 0.329500
+Train Epoch: 2 [14000/60000 (23%)]	AE_Loss: 0.022605	CNN_Loss: 0.286643	Ask_rate: 0.329000
+Train Epoch: 2 [16000/60000 (27%)]	AE_Loss: 0.023148	CNN_Loss: 0.283240	Ask_rate: 0.296000
+Train Epoch: 2 [18000/60000 (30%)]	AE_Loss: 0.071006	CNN_Loss: 0.274353	Ask_rate: 0.318000
+Train Epoch: 2 [20000/60000 (33%)]	AE_Loss: 0.035917	CNN_Loss: 0.323634	Ask_rate: 0.324000
+Train Epoch: 2 [22000/60000 (37%)]	AE_Loss: 0.049287	CNN_Loss: 0.344703	Ask_rate: 0.371000
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.042527	CNN_Loss: 0.334194	Ask_rate: 0.326500
+Train Epoch: 2 [26000/60000 (43%)]	AE_Loss: 0.040987	CNN_Loss: 0.309599	Ask_rate: 0.300500
+Train Epoch: 2 [28000/60000 (47%)]	AE_Loss: 0.029583	CNN_Loss: 0.312391	Ask_rate: 0.338500
+Train Epoch: 2 [30000/60000 (50%)]	AE_Loss: 0.028249	CNN_Loss: 0.298818	Ask_rate: 0.313000
+Train Epoch: 2 [32000/60000 (53%)]	AE_Loss: 0.078407	CNN_Loss: 3.267436	Ask_rate: 0.323000
+Train Epoch: 2 [34000/60000 (57%)]	AE_Loss: 0.031691	CNN_Loss: 0.386168	Ask_rate: 0.321500
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.032926	CNN_Loss: 0.368964	Ask_rate: 0.339000
+Train Epoch: 2 [38000/60000 (63%)]	AE_Loss: 0.038464	CNN_Loss: 0.311507	Ask_rate: 0.334500
+Train Epoch: 2 [40000/60000 (67%)]	AE_Loss: 0.037540	CNN_Loss: 0.257735	Ask_rate: 0.299000
+Train Epoch: 2 [42000/60000 (70%)]	AE_Loss: 0.022662	CNN_Loss: 0.258412	Ask_rate: 0.307000
+Train Epoch: 2 [44000/60000 (73%)]	AE_Loss: 0.038914	CNN_Loss: 0.333220	Ask_rate: 0.334000
+Train Epoch: 2 [46000/60000 (77%)]	AE_Loss: 0.015251	CNN_Loss: 0.298513	Ask_rate: 0.316000
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.032426	CNN_Loss: 0.401806	Ask_rate: 0.317500
+Train Epoch: 2 [50000/60000 (83%)]	AE_Loss: 0.041491	CNN_Loss: 0.283103	Ask_rate: 0.330000
+Train Epoch: 2 [52000/60000 (87%)]	AE_Loss: 0.037445	CNN_Loss: 0.299478	Ask_rate: 0.311500
+Train Epoch: 2 [54000/60000 (90%)]	AE_Loss: 0.047993	CNN_Loss: 0.350067	Ask_rate: 0.341000
+Train Epoch: 2 [56000/60000 (93%)]	AE_Loss: 0.030598	CNN_Loss: 0.331137	Ask_rate: 0.327500
+Train Epoch: 2 [58000/60000 (97%)]	AE_Loss: 0.039776	CNN_Loss: 0.401546	Ask_rate: 0.343500
+2022-10-11 16:42:26.092451
+[Train Epoch 2]
+cnt_over_thres 39362
+cnt_under_thres 80638
+Ask_rate: 0.328017
+Threshold: 0.05
+Test Loss: 3.4032, Accuracy: 9.74%
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.038025	CNN_Loss: 0.325361	Ask_rate: 0.000000
+Train Epoch: 1 [2000/60000 (3%)]	AE_Loss: 0.058657	CNN_Loss: 0.126949	Ask_rate: 0.148500
+Train Epoch: 1 [4000/60000 (7%)]	AE_Loss: 0.051161	CNN_Loss: 0.160213	Ask_rate: 0.162500
+Train Epoch: 1 [6000/60000 (10%)]	AE_Loss: 0.044044	CNN_Loss: 0.183038	Ask_rate: 0.167500
+Train Epoch: 1 [8000/60000 (13%)]	AE_Loss: 0.059441	CNN_Loss: 0.157964	Ask_rate: 0.163500
+Train Epoch: 1 [10000/60000 (17%)]	AE_Loss: 0.073270	CNN_Loss: 3.939472	Ask_rate: 0.162500
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.057689	CNN_Loss: 0.149385	Ask_rate: 0.160000
+Train Epoch: 1 [14000/60000 (23%)]	AE_Loss: 0.057386	CNN_Loss: 0.144518	Ask_rate: 0.174500
+Train Epoch: 1 [16000/60000 (27%)]	AE_Loss: 0.009109	CNN_Loss: 0.157857	Ask_rate: 0.182000
+Train Epoch: 1 [18000/60000 (30%)]	AE_Loss: 0.049571	CNN_Loss: 0.165371	Ask_rate: 0.162000
+Train Epoch: 1 [20000/60000 (33%)]	AE_Loss: 0.037279	CNN_Loss: 0.148020	Ask_rate: 0.154000
+Train Epoch: 1 [22000/60000 (37%)]	AE_Loss: 0.017345	CNN_Loss: 0.131216	Ask_rate: 0.155000
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.046593	CNN_Loss: 0.156670	Ask_rate: 0.176000
+Train Epoch: 1 [26000/60000 (43%)]	AE_Loss: 0.027269	CNN_Loss: 0.145409	Ask_rate: 0.150500
+Train Epoch: 1 [28000/60000 (47%)]	AE_Loss: 0.031213	CNN_Loss: 0.226665	Ask_rate: 0.183500
+Train Epoch: 1 [30000/60000 (50%)]	AE_Loss: 0.043189	CNN_Loss: 0.149597	Ask_rate: 0.164000
+Train Epoch: 1 [32000/60000 (53%)]	AE_Loss: 0.040577	CNN_Loss: 0.172748	Ask_rate: 0.179000
+Train Epoch: 1 [34000/60000 (57%)]	AE_Loss: 0.027708	CNN_Loss: 0.137104	Ask_rate: 0.152500
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.034299	CNN_Loss: 0.152836	Ask_rate: 0.158000
+Train Epoch: 1 [38000/60000 (63%)]	AE_Loss: 0.034386	CNN_Loss: 0.144592	Ask_rate: 0.155000
+Train Epoch: 1 [40000/60000 (67%)]	AE_Loss: 0.041217	CNN_Loss: 0.140424	Ask_rate: 0.158000
+Train Epoch: 1 [42000/60000 (70%)]	AE_Loss: 0.052774	CNN_Loss: 0.153617	Ask_rate: 0.169500
+Train Epoch: 1 [44000/60000 (73%)]	AE_Loss: 0.010163	CNN_Loss: 0.160436	Ask_rate: 0.174500
+Train Epoch: 1 [46000/60000 (77%)]	AE_Loss: 0.061756	CNN_Loss: 3.794579	Ask_rate: 0.171500
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.046410	CNN_Loss: 0.130940	Ask_rate: 0.147000
+Train Epoch: 1 [50000/60000 (83%)]	AE_Loss: 0.056655	CNN_Loss: 0.149192	Ask_rate: 0.155000
+Train Epoch: 1 [52000/60000 (87%)]	AE_Loss: 0.054105	CNN_Loss: 0.141439	Ask_rate: 0.152000
+Train Epoch: 1 [54000/60000 (90%)]	AE_Loss: 0.042247	CNN_Loss: 0.183304	Ask_rate: 0.186000
+Train Epoch: 1 [56000/60000 (93%)]	AE_Loss: 0.020553	CNN_Loss: 0.132890	Ask_rate: 0.143500
+Train Epoch: 1 [58000/60000 (97%)]	AE_Loss: 0.024720	CNN_Loss: 0.193251	Ask_rate: 0.180500
+2022-10-11 16:51:39.748483
+[Train Epoch 1]
+cnt_over_thres 9842
+cnt_under_thres 50158
+Ask_rate: 0.164033
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.052471	CNN_Loss: 0.152281	Ask_rate: 0.173000
+Train Epoch: 2 [2000/60000 (3%)]	AE_Loss: 0.033078	CNN_Loss: 0.167140	Ask_rate: 0.171500
+Train Epoch: 2 [4000/60000 (7%)]	AE_Loss: 0.048932	CNN_Loss: 0.159433	Ask_rate: 0.179500
+Train Epoch: 2 [6000/60000 (10%)]	AE_Loss: 0.038489	CNN_Loss: 0.164721	Ask_rate: 0.166500
+Train Epoch: 2 [8000/60000 (13%)]	AE_Loss: 0.050738	CNN_Loss: 0.156543	Ask_rate: 0.161000
+Train Epoch: 2 [10000/60000 (17%)]	AE_Loss: 0.050725	CNN_Loss: 0.129922	Ask_rate: 0.162000
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.066637	CNN_Loss: 4.314037	Ask_rate: 0.156500
+Train Epoch: 2 [14000/60000 (23%)]	AE_Loss: 0.045230	CNN_Loss: 0.135299	Ask_rate: 0.164500
+Train Epoch: 2 [16000/60000 (27%)]	AE_Loss: 0.040165	CNN_Loss: 0.118370	Ask_rate: 0.153000
+Train Epoch: 2 [18000/60000 (30%)]	AE_Loss: 0.085767	CNN_Loss: 4.533137	Ask_rate: 0.200000
+Train Epoch: 2 [20000/60000 (33%)]	AE_Loss: 0.029430	CNN_Loss: 0.155279	Ask_rate: 0.189000
+Train Epoch: 2 [22000/60000 (37%)]	AE_Loss: 0.033415	CNN_Loss: 0.129933	Ask_rate: 0.158000
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.053346	CNN_Loss: 0.139214	Ask_rate: 0.161000
+Train Epoch: 2 [26000/60000 (43%)]	AE_Loss: 0.027857	CNN_Loss: 0.147124	Ask_rate: 0.180000
+Train Epoch: 2 [28000/60000 (47%)]	AE_Loss: 0.049226	CNN_Loss: 0.131108	Ask_rate: 0.142000
+Train Epoch: 2 [30000/60000 (50%)]	AE_Loss: 0.019850	CNN_Loss: 0.160677	Ask_rate: 0.172000
+Train Epoch: 2 [32000/60000 (53%)]	AE_Loss: 0.050382	CNN_Loss: 0.236109	Ask_rate: 0.172000
+Train Epoch: 2 [34000/60000 (57%)]	AE_Loss: 0.044424	CNN_Loss: 0.148697	Ask_rate: 0.167500
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.042630	CNN_Loss: 0.181239	Ask_rate: 0.177500
+Train Epoch: 2 [38000/60000 (63%)]	AE_Loss: 0.032928	CNN_Loss: 0.144103	Ask_rate: 0.155000
+Train Epoch: 2 [40000/60000 (67%)]	AE_Loss: 0.012383	CNN_Loss: 0.157454	Ask_rate: 0.173000
+Train Epoch: 2 [42000/60000 (70%)]	AE_Loss: 0.040241	CNN_Loss: 0.180476	Ask_rate: 0.179500
+Train Epoch: 2 [44000/60000 (73%)]	AE_Loss: 0.051669	CNN_Loss: 0.158503	Ask_rate: 0.161000
+Train Epoch: 2 [46000/60000 (77%)]	AE_Loss: 0.048986	CNN_Loss: 0.184806	Ask_rate: 0.170500
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.007963	CNN_Loss: 0.163807	Ask_rate: 0.152500
+Train Epoch: 2 [50000/60000 (83%)]	AE_Loss: 0.084878	CNN_Loss: 0.228634	Ask_rate: 0.186000
+Train Epoch: 2 [52000/60000 (87%)]	AE_Loss: 0.031663	CNN_Loss: 0.144543	Ask_rate: 0.150000
+Train Epoch: 2 [54000/60000 (90%)]	AE_Loss: 0.049614	CNN_Loss: 0.158900	Ask_rate: 0.167000
+Train Epoch: 2 [56000/60000 (93%)]	AE_Loss: 0.029966	CNN_Loss: 0.162189	Ask_rate: 0.162500
+Train Epoch: 2 [58000/60000 (97%)]	AE_Loss: 0.074669	CNN_Loss: 0.135753	Ask_rate: 0.148000
+2022-10-11 17:00:51.359092
+[Train Epoch 2]
+cnt_over_thres 19852
+cnt_under_thres 100148
+Ask_rate: 0.165433
+Threshold: 0.060000000000000005
+Test Loss: 4.1206, Accuracy: 9.74%
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.038134	CNN_Loss: 0.139265	Ask_rate: 0.000000
+Train Epoch: 1 [2000/60000 (3%)]	AE_Loss: 0.046712	CNN_Loss: 0.055148	Ask_rate: 0.065000
+Train Epoch: 1 [4000/60000 (7%)]	AE_Loss: 0.031747	CNN_Loss: 0.068327	Ask_rate: 0.080500
+Train Epoch: 1 [6000/60000 (10%)]	AE_Loss: 0.043936	CNN_Loss: 0.074451	Ask_rate: 0.085500
+Train Epoch: 1 [8000/60000 (13%)]	AE_Loss: 0.056326	CNN_Loss: 0.065596	Ask_rate: 0.077500
+Train Epoch: 1 [10000/60000 (17%)]	AE_Loss: 0.031162	CNN_Loss: 0.054876	Ask_rate: 0.069500
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.059303	CNN_Loss: 0.058084	Ask_rate: 0.063000
+Train Epoch: 1 [14000/60000 (23%)]	AE_Loss: 0.058132	CNN_Loss: 0.084281	Ask_rate: 0.089000
+Train Epoch: 1 [16000/60000 (27%)]	AE_Loss: 0.040365	CNN_Loss: 0.068756	Ask_rate: 0.079000
+Train Epoch: 1 [18000/60000 (30%)]	AE_Loss: 0.032768	CNN_Loss: 0.067647	Ask_rate: 0.079500
+Train Epoch: 1 [20000/60000 (33%)]	AE_Loss: 0.006345	CNN_Loss: 0.061023	Ask_rate: 0.068500
+Train Epoch: 1 [22000/60000 (37%)]	AE_Loss: 0.039684	CNN_Loss: 0.054492	Ask_rate: 0.072000
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.033413	CNN_Loss: 0.055125	Ask_rate: 0.066000
+Train Epoch: 1 [26000/60000 (43%)]	AE_Loss: 0.042671	CNN_Loss: 0.062387	Ask_rate: 0.073000
+Train Epoch: 1 [28000/60000 (47%)]	AE_Loss: 0.052056	CNN_Loss: 0.063272	Ask_rate: 0.073000
+Train Epoch: 1 [30000/60000 (50%)]	AE_Loss: 0.032549	CNN_Loss: 0.056729	Ask_rate: 0.070000
+Train Epoch: 1 [32000/60000 (53%)]	AE_Loss: 0.077402	CNN_Loss: 4.782878	Ask_rate: 0.102500
+Train Epoch: 1 [34000/60000 (57%)]	AE_Loss: 0.049687	CNN_Loss: 0.068836	Ask_rate: 0.080000
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.032922	CNN_Loss: 0.055729	Ask_rate: 0.069000
+Train Epoch: 1 [38000/60000 (63%)]	AE_Loss: 0.038094	CNN_Loss: 0.071255	Ask_rate: 0.084000
+Train Epoch: 1 [40000/60000 (67%)]	AE_Loss: 0.062201	CNN_Loss: 0.057987	Ask_rate: 0.056500
+Train Epoch: 1 [42000/60000 (70%)]	AE_Loss: 0.073186	CNN_Loss: 4.507874	Ask_rate: 0.060500
+Train Epoch: 1 [44000/60000 (73%)]	AE_Loss: 0.027684	CNN_Loss: 0.056916	Ask_rate: 0.067500
+Train Epoch: 1 [46000/60000 (77%)]	AE_Loss: 0.075420	CNN_Loss: 4.925703	Ask_rate: 0.070500
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.035415	CNN_Loss: 0.061168	Ask_rate: 0.069500
+Train Epoch: 1 [50000/60000 (83%)]	AE_Loss: 0.032572	CNN_Loss: 0.061650	Ask_rate: 0.068500
+Train Epoch: 1 [52000/60000 (87%)]	AE_Loss: 0.025353	CNN_Loss: 0.063316	Ask_rate: 0.077500
+Train Epoch: 1 [54000/60000 (90%)]	AE_Loss: 0.060476	CNN_Loss: 0.055151	Ask_rate: 0.072000
+Train Epoch: 1 [56000/60000 (93%)]	AE_Loss: 0.045306	CNN_Loss: 0.064799	Ask_rate: 0.072500
+Train Epoch: 1 [58000/60000 (97%)]	AE_Loss: 0.034298	CNN_Loss: 0.061142	Ask_rate: 0.070000
+2022-10-11 17:10:31.793341
+[Train Epoch 1]
+cnt_over_thres 4415
+cnt_under_thres 55585
+Ask_rate: 0.073583
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.024956	CNN_Loss: 0.069117	Ask_rate: 0.076000
+Train Epoch: 2 [2000/60000 (3%)]	AE_Loss: 0.034079	CNN_Loss: 0.056676	Ask_rate: 0.066000
+Train Epoch: 2 [4000/60000 (7%)]	AE_Loss: 0.043656	CNN_Loss: 0.056113	Ask_rate: 0.064000
+Train Epoch: 2 [6000/60000 (10%)]	AE_Loss: 0.021263	CNN_Loss: 0.057508	Ask_rate: 0.062500
+Train Epoch: 2 [8000/60000 (13%)]	AE_Loss: 0.070311	CNN_Loss: 3.955269	Ask_rate: 0.077000
+Train Epoch: 2 [10000/60000 (17%)]	AE_Loss: 0.066327	CNN_Loss: 0.059070	Ask_rate: 0.079000
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.006839	CNN_Loss: 0.048715	Ask_rate: 0.060000
+Train Epoch: 2 [14000/60000 (23%)]	AE_Loss: 0.060453	CNN_Loss: 0.053226	Ask_rate: 0.072000
+Train Epoch: 2 [16000/60000 (27%)]	AE_Loss: 0.018442	CNN_Loss: 0.063507	Ask_rate: 0.073500
+Train Epoch: 2 [18000/60000 (30%)]	AE_Loss: 0.026308	CNN_Loss: 0.054744	Ask_rate: 0.062000
+Train Epoch: 2 [20000/60000 (33%)]	AE_Loss: 0.044962	CNN_Loss: 0.055937	Ask_rate: 0.075500
+Train Epoch: 2 [22000/60000 (37%)]	AE_Loss: 0.026321	CNN_Loss: 0.058270	Ask_rate: 0.065500
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.043165	CNN_Loss: 0.072189	Ask_rate: 0.083000
+Train Epoch: 2 [26000/60000 (43%)]	AE_Loss: 0.024911	CNN_Loss: 0.057379	Ask_rate: 0.071000
+Train Epoch: 2 [28000/60000 (47%)]	AE_Loss: 0.027818	CNN_Loss: 0.067019	Ask_rate: 0.078000
+Train Epoch: 2 [30000/60000 (50%)]	AE_Loss: 0.049591	CNN_Loss: 0.065038	Ask_rate: 0.074000
+Train Epoch: 2 [32000/60000 (53%)]	AE_Loss: 0.027792	CNN_Loss: 0.052272	Ask_rate: 0.069000
+Train Epoch: 2 [34000/60000 (57%)]	AE_Loss: 0.063391	CNN_Loss: 0.058637	Ask_rate: 0.071500
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.013461	CNN_Loss: 0.055798	Ask_rate: 0.066000
+Train Epoch: 2 [38000/60000 (63%)]	AE_Loss: 0.052810	CNN_Loss: 0.050193	Ask_rate: 0.059500
+Train Epoch: 2 [40000/60000 (67%)]	AE_Loss: 0.046437	CNN_Loss: 0.067206	Ask_rate: 0.080000
+Train Epoch: 2 [42000/60000 (70%)]	AE_Loss: 0.035907	CNN_Loss: 0.061097	Ask_rate: 0.069000
+Train Epoch: 2 [44000/60000 (73%)]	AE_Loss: 0.012629	CNN_Loss: 0.053357	Ask_rate: 0.063000
+Train Epoch: 2 [46000/60000 (77%)]	AE_Loss: 0.057135	CNN_Loss: 0.059810	Ask_rate: 0.083000
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.053945	CNN_Loss: 0.087813	Ask_rate: 0.087000
+Train Epoch: 2 [50000/60000 (83%)]	AE_Loss: 0.028108	CNN_Loss: 0.056058	Ask_rate: 0.067000
+Train Epoch: 2 [52000/60000 (87%)]	AE_Loss: 0.052603	CNN_Loss: 0.054049	Ask_rate: 0.087500
+Train Epoch: 2 [54000/60000 (90%)]	AE_Loss: 0.061306	CNN_Loss: 0.059757	Ask_rate: 0.072000
+Train Epoch: 2 [56000/60000 (93%)]	AE_Loss: 0.048811	CNN_Loss: 0.062652	Ask_rate: 0.069500
+Train Epoch: 2 [58000/60000 (97%)]	AE_Loss: 0.053150	CNN_Loss: 0.065037	Ask_rate: 0.079000
+2022-10-11 17:19:43.190524
+[Train Epoch 2]
+cnt_over_thres 8720
+cnt_under_thres 111280
+Ask_rate: 0.072667
+Threshold: 0.07
+Test Loss: 4.8082, Accuracy: 9.74%
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.031335	CNN_Loss: 0.062588	Ask_rate: 0.000000
+Train Epoch: 1 [2000/60000 (3%)]	AE_Loss: 0.039936	CNN_Loss: 0.035855	Ask_rate: 0.033500
+Train Epoch: 1 [4000/60000 (7%)]	AE_Loss: 0.046014	CNN_Loss: 0.028535	Ask_rate: 0.035000
+Train Epoch: 1 [6000/60000 (10%)]	AE_Loss: 0.043901	CNN_Loss: 0.028196	Ask_rate: 0.035500
+Train Epoch: 1 [8000/60000 (13%)]	AE_Loss: 0.048207	CNN_Loss: 0.033986	Ask_rate: 0.039500
+Train Epoch: 1 [10000/60000 (17%)]	AE_Loss: 0.052523	CNN_Loss: 0.035427	Ask_rate: 0.048500
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.039687	CNN_Loss: 0.026095	Ask_rate: 0.027000
+Train Epoch: 1 [14000/60000 (23%)]	AE_Loss: 0.056121	CNN_Loss: 0.027911	Ask_rate: 0.036500
+Train Epoch: 1 [16000/60000 (27%)]	AE_Loss: 0.061177	CNN_Loss: 0.033563	Ask_rate: 0.037000
+Train Epoch: 1 [18000/60000 (30%)]	AE_Loss: 0.052805	CNN_Loss: 0.030947	Ask_rate: 0.036000
+Train Epoch: 1 [20000/60000 (33%)]	AE_Loss: 0.044298	CNN_Loss: 0.023122	Ask_rate: 0.024500
+Train Epoch: 1 [22000/60000 (37%)]	AE_Loss: 0.060221	CNN_Loss: 0.026587	Ask_rate: 0.037000
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.082686	CNN_Loss: 5.577721	Ask_rate: 0.028000
+Train Epoch: 1 [26000/60000 (43%)]	AE_Loss: 0.036872	CNN_Loss: 0.032469	Ask_rate: 0.038500
+Train Epoch: 1 [28000/60000 (47%)]	AE_Loss: 0.084388	CNN_Loss: 0.031931	Ask_rate: 0.041000
+Train Epoch: 1 [30000/60000 (50%)]	AE_Loss: 0.023934	CNN_Loss: 0.024888	Ask_rate: 0.022000
+Train Epoch: 1 [32000/60000 (53%)]	AE_Loss: 0.012202	CNN_Loss: 0.021873	Ask_rate: 0.026500
+Train Epoch: 1 [34000/60000 (57%)]	AE_Loss: 0.041019	CNN_Loss: 0.023227	Ask_rate: 0.028000
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.044636	CNN_Loss: 0.023366	Ask_rate: 0.028000
+Train Epoch: 1 [38000/60000 (63%)]	AE_Loss: 0.047117	CNN_Loss: 0.023355	Ask_rate: 0.029500
+Train Epoch: 1 [40000/60000 (67%)]	AE_Loss: 0.047103	CNN_Loss: 0.023923	Ask_rate: 0.031500
+Train Epoch: 1 [42000/60000 (70%)]	AE_Loss: 0.060556	CNN_Loss: 0.033307	Ask_rate: 0.042000
+Train Epoch: 1 [44000/60000 (73%)]	AE_Loss: 0.027807	CNN_Loss: 0.030461	Ask_rate: 0.034500
+Train Epoch: 1 [46000/60000 (77%)]	AE_Loss: 0.045627	CNN_Loss: 0.022674	Ask_rate: 0.024500
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.038466	CNN_Loss: 0.026215	Ask_rate: 0.031000
+Train Epoch: 1 [50000/60000 (83%)]	AE_Loss: 0.068186	CNN_Loss: 0.030733	Ask_rate: 0.037500
+Train Epoch: 1 [52000/60000 (87%)]	AE_Loss: 0.053571	CNN_Loss: 0.024697	Ask_rate: 0.030000
+Train Epoch: 1 [54000/60000 (90%)]	AE_Loss: 0.066123	CNN_Loss: 0.020308	Ask_rate: 0.022000
+Train Epoch: 1 [56000/60000 (93%)]	AE_Loss: 0.056702	CNN_Loss: 0.021962	Ask_rate: 0.025500
+Train Epoch: 1 [58000/60000 (97%)]	AE_Loss: 0.060632	CNN_Loss: 0.026730	Ask_rate: 0.036000
+2022-10-11 17:29:08.837579
+[Train Epoch 1]
+cnt_over_thres 1951
+cnt_under_thres 58049
+Ask_rate: 0.032517
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.010775	CNN_Loss: 0.026843	Ask_rate: 0.029500
+Train Epoch: 2 [2000/60000 (3%)]	AE_Loss: 0.102870	CNN_Loss: 5.370656	Ask_rate: 0.035000
+Train Epoch: 2 [4000/60000 (7%)]	AE_Loss: 0.051875	CNN_Loss: 0.023890	Ask_rate: 0.028500
+Train Epoch: 2 [6000/60000 (10%)]	AE_Loss: 0.056057	CNN_Loss: 0.027678	Ask_rate: 0.032000
+Train Epoch: 2 [8000/60000 (13%)]	AE_Loss: 0.027354	CNN_Loss: 0.028230	Ask_rate: 0.034000
+Train Epoch: 2 [10000/60000 (17%)]	AE_Loss: 0.039513	CNN_Loss: 0.023633	Ask_rate: 0.026500
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.025302	CNN_Loss: 0.031889	Ask_rate: 0.043000
+Train Epoch: 2 [14000/60000 (23%)]	AE_Loss: 0.009540	CNN_Loss: 0.029047	Ask_rate: 0.040500
+Train Epoch: 2 [16000/60000 (27%)]	AE_Loss: 0.030920	CNN_Loss: 0.027965	Ask_rate: 0.031000
+Train Epoch: 2 [18000/60000 (30%)]	AE_Loss: 0.007247	CNN_Loss: 0.022250	Ask_rate: 0.025000
+Train Epoch: 2 [20000/60000 (33%)]	AE_Loss: 0.059712	CNN_Loss: 0.029640	Ask_rate: 0.035000
+Train Epoch: 2 [22000/60000 (37%)]	AE_Loss: 0.010780	CNN_Loss: 0.027702	Ask_rate: 0.032000
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.055520	CNN_Loss: 0.021402	Ask_rate: 0.024000
+Train Epoch: 2 [26000/60000 (43%)]	AE_Loss: 0.034611	CNN_Loss: 0.024333	Ask_rate: 0.034000
+Train Epoch: 2 [28000/60000 (47%)]	AE_Loss: 0.059877	CNN_Loss: 0.023456	Ask_rate: 0.031500
+Train Epoch: 2 [30000/60000 (50%)]	AE_Loss: 0.068529	CNN_Loss: 0.033761	Ask_rate: 0.036500
+Train Epoch: 2 [32000/60000 (53%)]	AE_Loss: 0.066947	CNN_Loss: 0.035035	Ask_rate: 0.048000
+Train Epoch: 2 [34000/60000 (57%)]	AE_Loss: 0.028899	CNN_Loss: 0.027465	Ask_rate: 0.034000
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.032341	CNN_Loss: 0.032228	Ask_rate: 0.035000
+Train Epoch: 2 [38000/60000 (63%)]	AE_Loss: 0.034319	CNN_Loss: 0.028658	Ask_rate: 0.033000
+Train Epoch: 2 [40000/60000 (67%)]	AE_Loss: 0.072641	CNN_Loss: 0.023062	Ask_rate: 0.026000
+Train Epoch: 2 [42000/60000 (70%)]	AE_Loss: 0.051604	CNN_Loss: 0.024309	Ask_rate: 0.028500
+Train Epoch: 2 [44000/60000 (73%)]	AE_Loss: 0.012121	CNN_Loss: 0.035342	Ask_rate: 0.043000
+Train Epoch: 2 [46000/60000 (77%)]	AE_Loss: 0.026955	CNN_Loss: 0.028801	Ask_rate: 0.033500
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.037649	CNN_Loss: 0.027723	Ask_rate: 0.035000
+Train Epoch: 2 [50000/60000 (83%)]	AE_Loss: 0.051948	CNN_Loss: 0.026999	Ask_rate: 0.029000
+Train Epoch: 2 [52000/60000 (87%)]	AE_Loss: 0.044237	CNN_Loss: 0.023349	Ask_rate: 0.027000
+Train Epoch: 2 [54000/60000 (90%)]	AE_Loss: 0.037454	CNN_Loss: 0.019640	Ask_rate: 0.026000
+Train Epoch: 2 [56000/60000 (93%)]	AE_Loss: 0.046021	CNN_Loss: 0.027762	Ask_rate: 0.038000
+Train Epoch: 2 [58000/60000 (97%)]	AE_Loss: 0.021547	CNN_Loss: 0.028576	Ask_rate: 0.033000
+2022-10-11 17:38:14.365518
+[Train Epoch 2]
+cnt_over_thres 3946
+cnt_under_thres 116054
+Ask_rate: 0.032883
+Threshold: 0.08
+Test Loss: 5.2687, Accuracy: 9.74%
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.042441	CNN_Loss: 0.037128	Ask_rate: 0.000000
+Train Epoch: 1 [2000/60000 (3%)]	AE_Loss: 0.039570	CNN_Loss: 0.019663	Ask_rate: 0.016000
+Train Epoch: 1 [4000/60000 (7%)]	AE_Loss: 0.038470	CNN_Loss: 0.016119	Ask_rate: 0.014500
+Train Epoch: 1 [6000/60000 (10%)]	AE_Loss: 0.026338	CNN_Loss: 0.013539	Ask_rate: 0.014500
+Train Epoch: 1 [8000/60000 (13%)]	AE_Loss: 0.046370	CNN_Loss: 0.014472	Ask_rate: 0.018000
+Train Epoch: 1 [10000/60000 (17%)]	AE_Loss: 0.041059	CNN_Loss: 0.012778	Ask_rate: 0.016000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.047276	CNN_Loss: 0.011616	Ask_rate: 0.011500
+Train Epoch: 1 [14000/60000 (23%)]	AE_Loss: 0.042562	CNN_Loss: 0.010144	Ask_rate: 0.012500
+Train Epoch: 1 [16000/60000 (27%)]	AE_Loss: 0.035389	CNN_Loss: 0.011042	Ask_rate: 0.016000
+Train Epoch: 1 [18000/60000 (30%)]	AE_Loss: 0.085252	CNN_Loss: 0.022108	Ask_rate: 0.031500
+Train Epoch: 1 [20000/60000 (33%)]	AE_Loss: 0.067215	CNN_Loss: 0.020550	Ask_rate: 0.022500
+Train Epoch: 1 [22000/60000 (37%)]	AE_Loss: 0.041938	CNN_Loss: 0.014847	Ask_rate: 0.013500
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.037476	CNN_Loss: 0.013015	Ask_rate: 0.014000
+Train Epoch: 1 [26000/60000 (43%)]	AE_Loss: 0.049387	CNN_Loss: 0.012279	Ask_rate: 0.014000
+Train Epoch: 1 [28000/60000 (47%)]	AE_Loss: 0.034778	CNN_Loss: 0.010326	Ask_rate: 0.009000
+Train Epoch: 1 [30000/60000 (50%)]	AE_Loss: 0.037129	CNN_Loss: 0.010842	Ask_rate: 0.015000
+Train Epoch: 1 [32000/60000 (53%)]	AE_Loss: 0.062025	CNN_Loss: 0.013601	Ask_rate: 0.019500
+Train Epoch: 1 [34000/60000 (57%)]	AE_Loss: 0.053601	CNN_Loss: 0.011740	Ask_rate: 0.010500
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.064975	CNN_Loss: 0.011186	Ask_rate: 0.014000
+Train Epoch: 1 [38000/60000 (63%)]	AE_Loss: 0.063728	CNN_Loss: 0.010674	Ask_rate: 0.012000
+Train Epoch: 1 [40000/60000 (67%)]	AE_Loss: 0.031859	CNN_Loss: 0.009863	Ask_rate: 0.010500
+Train Epoch: 1 [42000/60000 (70%)]	AE_Loss: 0.059428	CNN_Loss: 0.010152	Ask_rate: 0.012500
+Train Epoch: 1 [44000/60000 (73%)]	AE_Loss: 0.030450	CNN_Loss: 0.010151	Ask_rate: 0.015000
+Train Epoch: 1 [46000/60000 (77%)]	AE_Loss: 0.008976	CNN_Loss: 0.010624	Ask_rate: 0.012000
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.039704	CNN_Loss: 0.011084	Ask_rate: 0.014000
+Train Epoch: 1 [50000/60000 (83%)]	AE_Loss: 0.039263	CNN_Loss: 0.013150	Ask_rate: 0.018500
+Train Epoch: 1 [52000/60000 (87%)]	AE_Loss: 0.026436	CNN_Loss: 0.015122	Ask_rate: 0.018000
+Train Epoch: 1 [54000/60000 (90%)]	AE_Loss: 0.053268	CNN_Loss: 0.013788	Ask_rate: 0.014500
+Train Epoch: 1 [56000/60000 (93%)]	AE_Loss: 0.014899	CNN_Loss: 0.013623	Ask_rate: 0.013000
+Train Epoch: 1 [58000/60000 (97%)]	AE_Loss: 0.085169	CNN_Loss: 0.013803	Ask_rate: 0.017500
+2022-10-11 17:47:40.701010
+[Train Epoch 1]
+cnt_over_thres 907
+cnt_under_thres 59093
+Ask_rate: 0.015117
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.049279	CNN_Loss: 0.012134	Ask_rate: 0.013500
+Train Epoch: 2 [2000/60000 (3%)]	AE_Loss: 0.049825	CNN_Loss: 0.012139	Ask_rate: 0.014000
+Train Epoch: 2 [4000/60000 (7%)]	AE_Loss: 0.008743	CNN_Loss: 0.012279	Ask_rate: 0.013000
+Train Epoch: 2 [6000/60000 (10%)]	AE_Loss: 0.047719	CNN_Loss: 0.010390	Ask_rate: 0.011000
+Train Epoch: 2 [8000/60000 (13%)]	AE_Loss: 0.024595	CNN_Loss: 0.012712	Ask_rate: 0.021000
+Train Epoch: 2 [10000/60000 (17%)]	AE_Loss: 0.035676	CNN_Loss: 0.011892	Ask_rate: 0.014000
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.025582	CNN_Loss: 0.011388	Ask_rate: 0.012000
+Train Epoch: 2 [14000/60000 (23%)]	AE_Loss: 0.067189	CNN_Loss: 0.010457	Ask_rate: 0.011500
+Train Epoch: 2 [16000/60000 (27%)]	AE_Loss: 0.014206	CNN_Loss: 0.009544	Ask_rate: 0.011500
+Train Epoch: 2 [18000/60000 (30%)]	AE_Loss: 0.055920	CNN_Loss: 0.010540	Ask_rate: 0.015500
+Train Epoch: 2 [20000/60000 (33%)]	AE_Loss: 0.030163	CNN_Loss: 0.011220	Ask_rate: 0.016000
+Train Epoch: 2 [22000/60000 (37%)]	AE_Loss: 0.047159	CNN_Loss: 0.009566	Ask_rate: 0.009500
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.078063	CNN_Loss: 0.009325	Ask_rate: 0.012000
+Train Epoch: 2 [26000/60000 (43%)]	AE_Loss: 0.032478	CNN_Loss: 0.008523	Ask_rate: 0.009500
+Train Epoch: 2 [28000/60000 (47%)]	AE_Loss: 0.058641	CNN_Loss: 0.009241	Ask_rate: 0.013500
+Train Epoch: 2 [30000/60000 (50%)]	AE_Loss: 0.036580	CNN_Loss: 0.008843	Ask_rate: 0.009500
+Train Epoch: 2 [32000/60000 (53%)]	AE_Loss: 0.029986	CNN_Loss: 0.009573	Ask_rate: 0.014500
+Train Epoch: 2 [34000/60000 (57%)]	AE_Loss: 0.054642	CNN_Loss: 0.009689	Ask_rate: 0.012500
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.043095	CNN_Loss: 0.008878	Ask_rate: 0.008500
+Train Epoch: 2 [38000/60000 (63%)]	AE_Loss: 0.061114	CNN_Loss: 0.008529	Ask_rate: 0.010500
+Train Epoch: 2 [40000/60000 (67%)]	AE_Loss: 0.022685	CNN_Loss: 0.008284	Ask_rate: 0.011000
+Train Epoch: 2 [42000/60000 (70%)]	AE_Loss: 0.059986	CNN_Loss: 0.009880	Ask_rate: 0.014500
+Train Epoch: 2 [44000/60000 (73%)]	AE_Loss: 0.041423	CNN_Loss: 0.008968	Ask_rate: 0.008500
+Train Epoch: 2 [46000/60000 (77%)]	AE_Loss: 0.042053	CNN_Loss: 0.009591	Ask_rate: 0.014000
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.038142	CNN_Loss: 0.010279	Ask_rate: 0.014000
+Train Epoch: 2 [50000/60000 (83%)]	AE_Loss: 0.048398	CNN_Loss: 0.010634	Ask_rate: 0.012000
+Train Epoch: 2 [52000/60000 (87%)]	AE_Loss: 0.079337	CNN_Loss: 0.011937	Ask_rate: 0.017000
+Train Epoch: 2 [54000/60000 (90%)]	AE_Loss: 0.011569	CNN_Loss: 0.009465	Ask_rate: 0.008000
+Train Epoch: 2 [56000/60000 (93%)]	AE_Loss: 0.046489	CNN_Loss: 0.009889	Ask_rate: 0.014500
+Train Epoch: 2 [58000/60000 (97%)]	AE_Loss: 0.047250	CNN_Loss: 0.009375	Ask_rate: 0.011000
+2022-10-11 17:57:00.116805
+[Train Epoch 2]
+cnt_over_thres 1654
+cnt_under_thres 118346
+Ask_rate: 0.013783
+Threshold: 0.09
+Test Loss: 6.4862, Accuracy: 9.74%
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.039581	CNN_Loss: 0.008891	Ask_rate: 0.000000
+Train Epoch: 1 [2000/60000 (3%)]	AE_Loss: 0.039032	CNN_Loss: 0.007944	Ask_rate: 0.006000
+Train Epoch: 1 [4000/60000 (7%)]	AE_Loss: 0.034852	CNN_Loss: 0.006291	Ask_rate: 0.003000
+Train Epoch: 1 [6000/60000 (10%)]	AE_Loss: 0.064007	CNN_Loss: 0.005093	Ask_rate: 0.002000
+Train Epoch: 1 [8000/60000 (13%)]	AE_Loss: 0.069393	CNN_Loss: 0.004680	Ask_rate: 0.003500
+Train Epoch: 1 [10000/60000 (17%)]	AE_Loss: 0.045892	CNN_Loss: 0.004288	Ask_rate: 0.002500
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.052987	CNN_Loss: 0.003980	Ask_rate: 0.003000
+Train Epoch: 1 [14000/60000 (23%)]	AE_Loss: 0.049872	CNN_Loss: 0.004088	Ask_rate: 0.007000
+Train Epoch: 1 [16000/60000 (27%)]	AE_Loss: 0.064223	CNN_Loss: 0.004000	Ask_rate: 0.003500
+Train Epoch: 1 [18000/60000 (30%)]	AE_Loss: 0.040632	CNN_Loss: 0.003689	Ask_rate: 0.003000
+Train Epoch: 1 [20000/60000 (33%)]	AE_Loss: 0.039798	CNN_Loss: 0.003659	Ask_rate: 0.005500
+Train Epoch: 1 [22000/60000 (37%)]	AE_Loss: 0.048085	CNN_Loss: 0.003870	Ask_rate: 0.006500
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.046248	CNN_Loss: 0.004051	Ask_rate: 0.007000
+Train Epoch: 1 [26000/60000 (43%)]	AE_Loss: 0.024686	CNN_Loss: 0.004042	Ask_rate: 0.004500
+Train Epoch: 1 [28000/60000 (47%)]	AE_Loss: 0.066494	CNN_Loss: 0.004583	Ask_rate: 0.008000
+Train Epoch: 1 [30000/60000 (50%)]	AE_Loss: 0.012881	CNN_Loss: 0.004387	Ask_rate: 0.004000
+Train Epoch: 1 [32000/60000 (53%)]	AE_Loss: 0.034388	CNN_Loss: 0.004767	Ask_rate: 0.008000
+Train Epoch: 1 [34000/60000 (57%)]	AE_Loss: 0.024369	CNN_Loss: 0.004593	Ask_rate: 0.005000
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.012102	CNN_Loss: 0.004745	Ask_rate: 0.008000
+Train Epoch: 1 [38000/60000 (63%)]	AE_Loss: 0.013253	CNN_Loss: 0.004807	Ask_rate: 0.006000
+Train Epoch: 1 [40000/60000 (67%)]	AE_Loss: 0.037255	CNN_Loss: 0.004845	Ask_rate: 0.005000
+Train Epoch: 1 [42000/60000 (70%)]	AE_Loss: 0.042758	CNN_Loss: 0.004787	Ask_rate: 0.007500
+Train Epoch: 1 [44000/60000 (73%)]	AE_Loss: 0.042488	CNN_Loss: 0.004196	Ask_rate: 0.004000
+Train Epoch: 1 [46000/60000 (77%)]	AE_Loss: 0.052961	CNN_Loss: 0.004004	Ask_rate: 0.004500
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.047204	CNN_Loss: 0.004011	Ask_rate: 0.004500
+Train Epoch: 1 [50000/60000 (83%)]	AE_Loss: 0.032305	CNN_Loss: 0.003921	Ask_rate: 0.004500
+Train Epoch: 1 [52000/60000 (87%)]	AE_Loss: 0.025546	CNN_Loss: 0.003545	Ask_rate: 0.002500
+Train Epoch: 1 [54000/60000 (90%)]	AE_Loss: 0.039536	CNN_Loss: 0.003258	Ask_rate: 0.004500
+Train Epoch: 1 [56000/60000 (93%)]	AE_Loss: 0.013939	CNN_Loss: 0.003444	Ask_rate: 0.006500
+Train Epoch: 1 [58000/60000 (97%)]	AE_Loss: 0.028547	CNN_Loss: 0.003315	Ask_rate: 0.003000
+2022-10-11 18:06:33.782593
+[Train Epoch 1]
+cnt_over_thres 293
+cnt_under_thres 59707
+Ask_rate: 0.004883
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.058491	CNN_Loss: 0.003198	Ask_rate: 0.004000
+Train Epoch: 2 [2000/60000 (3%)]	AE_Loss: 0.043401	CNN_Loss: 0.003169	Ask_rate: 0.004500
+Train Epoch: 2 [4000/60000 (7%)]	AE_Loss: 0.023026	CNN_Loss: 0.003826	Ask_rate: 0.008000
+Train Epoch: 2 [6000/60000 (10%)]	AE_Loss: 0.061959	CNN_Loss: 0.003780	Ask_rate: 0.004000
+Train Epoch: 2 [8000/60000 (13%)]	AE_Loss: 0.038505	CNN_Loss: 0.003582	Ask_rate: 0.003500
+Train Epoch: 2 [10000/60000 (17%)]	AE_Loss: 0.060097	CNN_Loss: 0.003730	Ask_rate: 0.005500
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.029385	CNN_Loss: 0.003396	Ask_rate: 0.002500
+Train Epoch: 2 [14000/60000 (23%)]	AE_Loss: 0.033396	CNN_Loss: 0.003572	Ask_rate: 0.006000
+Train Epoch: 2 [16000/60000 (27%)]	AE_Loss: 0.105854	CNN_Loss: 0.003480	Ask_rate: 0.005000
+Train Epoch: 2 [18000/60000 (30%)]	AE_Loss: 0.020427	CNN_Loss: 0.003198	Ask_rate: 0.003000
+Train Epoch: 2 [20000/60000 (33%)]	AE_Loss: 0.061484	CNN_Loss: 0.003245	Ask_rate: 0.004000
+Train Epoch: 2 [22000/60000 (37%)]	AE_Loss: 0.068423	CNN_Loss: 0.003803	Ask_rate: 0.008500
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.051350	CNN_Loss: 0.003857	Ask_rate: 0.007000
+Train Epoch: 2 [26000/60000 (43%)]	AE_Loss: 0.029777	CNN_Loss: 0.004062	Ask_rate: 0.005500
+Train Epoch: 2 [28000/60000 (47%)]	AE_Loss: 0.061073	CNN_Loss: 0.004110	Ask_rate: 0.005500
+Train Epoch: 2 [30000/60000 (50%)]	AE_Loss: 0.066597	CNN_Loss: 0.004979	Ask_rate: 0.009000
+Train Epoch: 2 [32000/60000 (53%)]	AE_Loss: 0.042137	CNN_Loss: 0.004499	Ask_rate: 0.003500
+Train Epoch: 2 [34000/60000 (57%)]	AE_Loss: 0.090348	CNN_Loss: 0.004226	Ask_rate: 0.003000
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.030033	CNN_Loss: 0.003931	Ask_rate: 0.006000
+Train Epoch: 2 [38000/60000 (63%)]	AE_Loss: 0.046158	CNN_Loss: 0.004026	Ask_rate: 0.005000
+Train Epoch: 2 [40000/60000 (67%)]	AE_Loss: 0.023088	CNN_Loss: 0.004375	Ask_rate: 0.006000
+Train Epoch: 2 [42000/60000 (70%)]	AE_Loss: 0.036928	CNN_Loss: 0.004694	Ask_rate: 0.007000
+Train Epoch: 2 [44000/60000 (73%)]	AE_Loss: 0.037236	CNN_Loss: 0.004394	Ask_rate: 0.004000
+Train Epoch: 2 [46000/60000 (77%)]	AE_Loss: 0.041660	CNN_Loss: 0.003895	Ask_rate: 0.004000
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.047431	CNN_Loss: 0.003688	Ask_rate: 0.004000
+Train Epoch: 2 [50000/60000 (83%)]	AE_Loss: 0.027116	CNN_Loss: 0.003725	Ask_rate: 0.006500
+Train Epoch: 2 [52000/60000 (87%)]	AE_Loss: 0.044250	CNN_Loss: 0.004176	Ask_rate: 0.010000
+Train Epoch: 2 [54000/60000 (90%)]	AE_Loss: 0.061598	CNN_Loss: 0.004078	Ask_rate: 0.004000
+Train Epoch: 2 [56000/60000 (93%)]	AE_Loss: 0.049545	CNN_Loss: 0.003667	Ask_rate: 0.003000
+Train Epoch: 2 [58000/60000 (97%)]	AE_Loss: 0.034214	CNN_Loss: 0.003958	Ask_rate: 0.007000
+2022-10-11 18:15:49.657361
+[Train Epoch 2]
+cnt_over_thres 609
+cnt_under_thres 119391
+Ask_rate: 0.005075
+Threshold: 0.09999999999999999
+Test Loss: 7.2487, Accuracy: 9.74%

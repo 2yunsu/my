@@ -1,0 +1,21 @@
+2022-10-26 01:31:58.352482
+Start Threshold: 0.02
+2022-10-26 01:34:15.392586
+Start Threshold: 0.02
+2022-10-27 02:44:46.665133
+Start Threshold: 0.02
+2022-10-27 15:53:02.103837
+Start Threshold: 0.02
+Train Epoch: 1 [0/50000 (0%)]	AE_Loss: 0.063417	CNN_Loss: 2.305367	Ask_rate: 1.000000	threshold: 0.021500	unq CNN/CNN: 0.000000
+Train Epoch: 1 [12800/50000 (26%)]	AE_Loss: 0.030796	CNN_Loss: 2.426666	Ask_rate: 0.228856	threshold: 0.027100	unq CNN/CNN: 10.823529
+Train Epoch: 1 [25600/50000 (51%)]	AE_Loss: 0.030083	CNN_Loss: 2.286855	Ask_rate: 0.613466	threshold: 0.010000	unq CNN/CNN: 20.882353
+Train Epoch: 1 [38400/50000 (77%)]	AE_Loss: 0.024949	CNN_Loss: 2.303905	Ask_rate: 0.742097	threshold: 0.010000	unq CNN/CNN: 20.882353
+[Epoch 1]
+cnt_over_thres: 626
+cnt_under_thres: 155
+Total Ask_rate: 80.15%
+Test Loss: 2.2985, Accuracy: 9.97%
+cnt_cnn: 17
+unq_cnt_cnn:  355
+CNN_ratio_setting:  15
+

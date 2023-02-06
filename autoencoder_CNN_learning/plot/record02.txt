@@ -1,0 +1,12 @@
+2022-10-12 10:53:39.980449
+Threshold: 0.009999999999999998
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.227089	CNN_Loss: 2.242057	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.028434	CNN_Loss: 0.004023	Ask_rate: 0.986500
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.031650	CNN_Loss: 0.000638	Ask_rate: 0.975833
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.056985	CNN_Loss: 0.000242	Ask_rate: 0.975500
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.022717	CNN_Loss: 0.003284	Ask_rate: 0.975000
+[Epoch 1]
+cnt_over_thres: 58636
+cnt_under_thres: 1364
+Ask_rate: 0.977267
+Test Loss: 0.1165, Accuracy: 97.01%

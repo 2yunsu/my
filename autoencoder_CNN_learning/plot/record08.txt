@@ -1,0 +1,34 @@
+2022-10-14 00:38:38.842035
+Start Threshold: 0.04
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.230824	CNN_Loss: 2.322926	Ask_rate: 1.000000	threshold: 0.030000
+Train Epoch: 1 [6400/60000 (11%)]	AE_Loss: 0.054951	CNN_Loss: 2.183058	Ask_rate: 1.000000	threshold: 0.030000
+Train Epoch: 1 [12800/60000 (21%)]	AE_Loss: 0.044397	CNN_Loss: 1.026929	Ask_rate: 1.000000	threshold: 0.030000
+Train Epoch: 1 [19200/60000 (32%)]	AE_Loss: 0.037437	CNN_Loss: 0.601381	Ask_rate: 1.000000	threshold: 0.030000
+Train Epoch: 1 [25600/60000 (43%)]	AE_Loss: 0.032078	CNN_Loss: 0.412112	Ask_rate: 0.970075	threshold: 0.030000
+Train Epoch: 1 [32000/60000 (53%)]	AE_Loss: 0.028840	CNN_Loss: 0.417109	Ask_rate: 0.860279	threshold: 0.030000
+Train Epoch: 1 [38400/60000 (64%)]	AE_Loss: 0.030038	CNN_Loss: 1.681905	Ask_rate: 0.740433	threshold: 0.030000
+Train Epoch: 1 [44800/60000 (75%)]	AE_Loss: 0.026138	CNN_Loss: 1.681905	Ask_rate: 0.634807	threshold: 0.030000
+Train Epoch: 1 [51200/60000 (85%)]	AE_Loss: 0.024617	CNN_Loss: 0.459888	Ask_rate: 0.604245	threshold: 0.010000
+Train Epoch: 1 [57600/60000 (96%)]	AE_Loss: 0.023234	CNN_Loss: 0.338302	Ask_rate: 0.648169	threshold: 0.010000
+[Epoch 1]
+cnt_over_thres: 620
+cnt_under_thres: 317
+Total Ask_rate: 0.661686
+Test Loss: 0.3150, Accuracy: 90.08%
+
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.024014	CNN_Loss: 0.369770	Ask_rate: 1.000000	threshold: 0.010000
+Train Epoch: 2 [6400/60000 (11%)]	AE_Loss: 0.023799	CNN_Loss: 0.296760	Ask_rate: 1.000000	threshold: 0.010000
+Train Epoch: 2 [12800/60000 (21%)]	AE_Loss: 0.023498	CNN_Loss: 0.265910	Ask_rate: 1.000000	threshold: 0.010000
+Train Epoch: 2 [19200/60000 (32%)]	AE_Loss: 0.019652	CNN_Loss: 0.164620	Ask_rate: 1.000000	threshold: 0.010000
+Train Epoch: 2 [25600/60000 (43%)]	AE_Loss: 0.021147	CNN_Loss: 0.146666	Ask_rate: 1.000000	threshold: 0.010000
+Train Epoch: 2 [32000/60000 (53%)]	AE_Loss: 0.018499	CNN_Loss: 0.124595	Ask_rate: 1.000000	threshold: 0.010000
+Train Epoch: 2 [38400/60000 (64%)]	AE_Loss: 0.019601	CNN_Loss: 0.270962	Ask_rate: 1.000000	threshold: 0.010000
+Train Epoch: 2 [44800/60000 (75%)]	AE_Loss: 0.020074	CNN_Loss: 0.213483	Ask_rate: 1.000000	threshold: 0.010000
+Train Epoch: 2 [51200/60000 (85%)]	AE_Loss: 0.018861	CNN_Loss: 0.088471	Ask_rate: 1.000000	threshold: 0.010000
+Train Epoch: 2 [57600/60000 (96%)]	AE_Loss: 0.018613	CNN_Loss: 0.230938	Ask_rate: 1.000000	threshold: 0.010000
+[Epoch 2]
+cnt_over_thres: 1557
+cnt_under_thres: 317
+Total Ask_rate: 0.830843
+Test Loss: 0.1423, Accuracy: 95.28%
+

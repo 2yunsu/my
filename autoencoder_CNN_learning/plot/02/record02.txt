@@ -1,0 +1,244 @@
+2022-10-12 02:28:10.386576
+Threshold: 0.021
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.230535	CNN_Loss: 2.348098	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.043747	CNN_Loss: 0.001205	Ask_rate: 0.924083
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.046675	CNN_Loss: 0.000004	Ask_rate: 0.901333
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.046635	CNN_Loss: 0.003274	Ask_rate: 0.895000
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.048349	CNN_Loss: 0.032950	Ask_rate: 0.889083
+[Epoch 1]
+cnt_over_thres: 53987
+cnt_under_thres: 6013
+Ask_rate: 0.899783
+Test Loss: 0.1411, Accuracy: 96.13%
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.048406	CNN_Loss: 0.001130	Ask_rate: 0.889417
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.037693	CNN_Loss: 0.150260	Ask_rate: 0.897250
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.044340	CNN_Loss: 0.009093	Ask_rate: 0.888750
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.033189	CNN_Loss: 0.006275	Ask_rate: 0.888250
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.017138	CNN_Loss: 0.000023	Ask_rate: 0.894500
+[Epoch 2]
+cnt_over_thres: 107486
+cnt_under_thres: 12514
+Ask_rate: 0.895717
+Test Loss: 0.1287, Accuracy: 96.83%
+2022-10-12 02:47:43.896437
+Threshold: 0.022000000000000002
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.027198	CNN_Loss: 0.000153	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.047494	CNN_Loss: 0.000002	Ask_rate: 0.886083
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.057553	CNN_Loss: 0.410777	Ask_rate: 0.885500
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.047173	CNN_Loss: 0.000000	Ask_rate: 0.885333
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.050454	CNN_Loss: 0.000000	Ask_rate: 0.880500
+[Epoch 1]
+cnt_over_thres: 53028
+cnt_under_thres: 6972
+Ask_rate: 0.883800
+Test Loss: 0.1189, Accuracy: 97.28%
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.056414	CNN_Loss: 0.000000	Ask_rate: 0.881583
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.048730	CNN_Loss: 0.000000	Ask_rate: 0.879583
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.035921	CNN_Loss: 0.083030	Ask_rate: 0.885750
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.072026	CNN_Loss: 0.000018	Ask_rate: 0.887083
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.042830	CNN_Loss: 0.001768	Ask_rate: 0.888667
+[Epoch 2]
+cnt_over_thres: 106223
+cnt_under_thres: 13777
+Ask_rate: 0.885192
+Test Loss: 0.2559, Accuracy: 93.62%
+2022-10-12 03:07:30.832246
+Threshold: 0.023000000000000003
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.118577	CNN_Loss: 0.002157	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.045280	CNN_Loss: 0.000000	Ask_rate: 0.888917
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.043889	CNN_Loss: 0.000027	Ask_rate: 0.887667
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.084429	CNN_Loss: 0.000427	Ask_rate: 0.880667
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.053787	CNN_Loss: 0.000170	Ask_rate: 0.877917
+[Epoch 1]
+cnt_over_thres: 52974
+cnt_under_thres: 7026
+Ask_rate: 0.882900
+Test Loss: 0.2169, Accuracy: 94.72%
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.060146	CNN_Loss: 0.000157	Ask_rate: 0.879333
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.062319	CNN_Loss: 0.000049	Ask_rate: 0.881833
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.030333	CNN_Loss: 0.022094	Ask_rate: 0.875167
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.018240	CNN_Loss: 0.000000	Ask_rate: 0.877667
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.060567	CNN_Loss: 0.000000	Ask_rate: 0.871833
+[Epoch 2]
+cnt_over_thres: 105520
+cnt_under_thres: 14480
+Ask_rate: 0.879333
+Test Loss: 0.3456, Accuracy: 91.78%
+2022-10-12 03:27:24.195864
+Threshold: 0.024000000000000004
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.029466	CNN_Loss: 0.026223	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.025626	CNN_Loss: 0.001389	Ask_rate: 0.872667
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.047870	CNN_Loss: 2.302420	Ask_rate: 0.861333
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.086250	CNN_Loss: 1.941222	Ask_rate: 0.866250
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.033797	CNN_Loss: 0.002961	Ask_rate: 0.865500
+[Epoch 1]
+cnt_over_thres: 51925
+cnt_under_thres: 8075
+Ask_rate: 0.865417
+Test Loss: 0.3255, Accuracy: 93.17%
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.041554	CNN_Loss: 0.000000	Ask_rate: 0.861333
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.033504	CNN_Loss: 0.000000	Ask_rate: 0.865250
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.062211	CNN_Loss: 0.000000	Ask_rate: 0.862333
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.031454	CNN_Loss: 0.000050	Ask_rate: 0.880667
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.030437	CNN_Loss: 3.198070	Ask_rate: 0.876250
+[Epoch 2]
+cnt_over_thres: 104242
+cnt_under_thres: 15758
+Ask_rate: 0.868683
+Test Loss: 1.8118, Accuracy: 64.01%
+2022-10-12 03:47:11.625584
+Threshold: 0.025000000000000005
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.080702	CNN_Loss: 0.077288	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.024779	CNN_Loss: 0.000000	Ask_rate: 0.856000
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.053220	CNN_Loss: 2.583703	Ask_rate: 0.854000
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.056385	CNN_Loss: 1.643768	Ask_rate: 0.862083
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.025930	CNN_Loss: 2.752746	Ask_rate: 0.859250
+[Epoch 1]
+cnt_over_thres: 51410
+cnt_under_thres: 8590
+Ask_rate: 0.856833
+Test Loss: 2.5420, Accuracy: 9.74%
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.069189	CNN_Loss: 2.295512	Ask_rate: 0.852833
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.043948	CNN_Loss: 2.462758	Ask_rate: 0.854167
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.038073	CNN_Loss: 2.616194	Ask_rate: 0.850083
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.083489	CNN_Loss: 2.532008	Ask_rate: 0.863333
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.047053	CNN_Loss: 1.366088	Ask_rate: 0.857333
+[Epoch 2]
+cnt_over_thres: 102720
+cnt_under_thres: 17280
+Ask_rate: 0.856000
+Test Loss: 2.4739, Accuracy: 9.74%
+2022-10-12 04:07:02.158095
+Threshold: 0.026000000000000006
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.032486	CNN_Loss: 2.410399	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.038820	CNN_Loss: 2.354228	Ask_rate: 0.847667
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.094495	CNN_Loss: 2.401259	Ask_rate: 0.840667
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.045420	CNN_Loss: 2.585419	Ask_rate: 0.847583
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.054731	CNN_Loss: 1.468495	Ask_rate: 0.846333
+[Epoch 1]
+cnt_over_thres: 50707
+cnt_under_thres: 9293
+Ask_rate: 0.845117
+Test Loss: 2.4917, Accuracy: 9.74%
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.059662	CNN_Loss: 2.478658	Ask_rate: 0.843333
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.054416	CNN_Loss: 2.438607	Ask_rate: 0.847000
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.046338	CNN_Loss: 2.272585	Ask_rate: 0.851417
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.037539	CNN_Loss: 2.523256	Ask_rate: 0.845000
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.039212	CNN_Loss: 2.208712	Ask_rate: 0.841250
+[Epoch 2]
+cnt_over_thres: 101394
+cnt_under_thres: 18606
+Ask_rate: 0.844950
+Test Loss: 2.5197, Accuracy: 9.74%
+2022-10-12 04:26:43.368533
+Threshold: 0.027000000000000007
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.048774	CNN_Loss: 2.201514	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.031119	CNN_Loss: 2.220150	Ask_rate: 0.825250
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.049609	CNN_Loss: 1.198864	Ask_rate: 0.833833
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.053730	CNN_Loss: 2.327865	Ask_rate: 0.840333
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.052032	CNN_Loss: 2.343192	Ask_rate: 0.886083
+[Epoch 1]
+cnt_over_thres: 52587
+cnt_under_thres: 7413
+Ask_rate: 0.876450
+Test Loss: 2.3049, Accuracy: 10.28%
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.090983	CNN_Loss: 2.184486	Ask_rate: 0.996750
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.080758	CNN_Loss: 2.297490	Ask_rate: 0.999667
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.050014	CNN_Loss: 2.345682	Ask_rate: 0.998250
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.077666	CNN_Loss: 2.431903	Ask_rate: 0.995833
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.076363	CNN_Loss: 2.536852	Ask_rate: 0.990333
+[Epoch 2]
+cnt_over_thres: 112198
+cnt_under_thres: 7802
+Ask_rate: 0.934983
+Test Loss: 2.3052, Accuracy: 10.10%
+2022-10-12 04:57:09.216483
+Threshold: 0.028000000000000008
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.033943	CNN_Loss: 2.370330	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.039885	CNN_Loss: 2.469006	Ask_rate: 0.977333
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.069362	CNN_Loss: 2.429785	Ask_rate: 0.969333
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.051163	CNN_Loss: 2.355226	Ask_rate: 0.967000
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.044454	CNN_Loss: 2.379360	Ask_rate: 0.976500
+[Epoch 1]
+cnt_over_thres: 58396
+cnt_under_thres: 1604
+Ask_rate: 0.973267
+Test Loss: 2.3060, Accuracy: 11.34%
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.049791	CNN_Loss: 2.282789	Ask_rate: 0.976167
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.064262	CNN_Loss: 2.644361	Ask_rate: 0.967667
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.073320	CNN_Loss: 2.241914	Ask_rate: 0.966250
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.037493	CNN_Loss: 2.385764	Ask_rate: 0.961250
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.042002	CNN_Loss: 2.227050	Ask_rate: 0.960583
+[Epoch 2]
+cnt_over_thres: 116139
+cnt_under_thres: 3861
+Ask_rate: 0.967825
+Test Loss: 2.3154, Accuracy: 9.58%
+2022-10-12 05:27:50.212667
+Threshold: 0.02900000000000001
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.067637	CNN_Loss: 2.339359	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.032033	CNN_Loss: 2.724133	Ask_rate: 0.932083
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.026616	CNN_Loss: 1.724575	Ask_rate: 0.932500
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.042599	CNN_Loss: 1.791682	Ask_rate: 0.924250
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.046875	CNN_Loss: 2.323079	Ask_rate: 0.922000
+[Epoch 1]
+cnt_over_thres: 55592
+cnt_under_thres: 4408
+Ask_rate: 0.926533
+Test Loss: 2.3596, Accuracy: 9.58%
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.042118	CNN_Loss: 1.620811	Ask_rate: 0.921833
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.032342	CNN_Loss: 2.491818	Ask_rate: 0.923750
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.046351	CNN_Loss: 2.101516	Ask_rate: 0.916167
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.046537	CNN_Loss: 2.439321	Ask_rate: 0.924417
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.066269	CNN_Loss: 2.262198	Ask_rate: 0.916667
+[Epoch 2]
+cnt_over_thres: 110794
+cnt_under_thres: 9206
+Ask_rate: 0.923283
+Test Loss: 2.3297, Accuracy: 9.58%
+2022-10-12 05:58:34.318556
+Threshold: 0.03000000000000001
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.031985	CNN_Loss: 2.603902	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.051944	CNN_Loss: 2.399990	Ask_rate: 0.913833
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.028628	CNN_Loss: 1.627311	Ask_rate: 0.901417
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.049299	CNN_Loss: 2.916304	Ask_rate: 0.900000
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.086894	CNN_Loss: 2.402860	Ask_rate: 0.899750
+[Epoch 1]
+cnt_over_thres: 54145
+cnt_under_thres: 5855
+Ask_rate: 0.902417
+Test Loss: 2.3645, Accuracy: 9.58%
+2022-10-12 06:56:20.467061
+Threshold: 0.021
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.230346	CNN_Loss: 2.364653	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.056713	CNN_Loss: 0.003917	Ask_rate: 0.924500
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.062870	CNN_Loss: 0.000964	Ask_rate: 0.907167
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.037561	CNN_Loss: 2.068638	Ask_rate: 0.891833
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.042026	CNN_Loss: 0.000009	Ask_rate: 0.895500
+[Epoch 1]
+cnt_over_thres: 54141
+cnt_under_thres: 5859
+Ask_rate: 0.902350
+Test Loss: 0.1147, Accuracy: 97.07%
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.051409	CNN_Loss: 0.000065	Ask_rate: 0.892750
+Train Epoch: 2 [12000/60000 (20%)]	AE_Loss: 0.052385	CNN_Loss: 0.005006	Ask_rate: 0.906250
+Train Epoch: 2 [24000/60000 (40%)]	AE_Loss: 0.048440	CNN_Loss: 0.000066	Ask_rate: 0.900917
+Train Epoch: 2 [36000/60000 (60%)]	AE_Loss: 0.032447	CNN_Loss: 0.000052	Ask_rate: 0.894833
+Train Epoch: 2 [48000/60000 (80%)]	AE_Loss: 0.019536	CNN_Loss: 0.000000	Ask_rate: 0.890333
+[Epoch 2]
+cnt_over_thres: 108023
+cnt_under_thres: 11977
+Ask_rate: 0.900192
+Test Loss: 0.1785, Accuracy: 96.30%
+2022-10-12 07:21:34.859699
+Threshold: 0.022000000000000002
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.030014	CNN_Loss: 0.136440	Ask_rate: 1.000000
+Train Epoch: 1 [12000/60000 (20%)]	AE_Loss: 0.050340	CNN_Loss: 0.000000	Ask_rate: 0.883833
+Train Epoch: 1 [24000/60000 (40%)]	AE_Loss: 0.059774	CNN_Loss: 0.093527	Ask_rate: 0.889583
+Train Epoch: 1 [36000/60000 (60%)]	AE_Loss: 0.059980	CNN_Loss: 0.000002	Ask_rate: 0.888917
+Train Epoch: 1 [48000/60000 (80%)]	AE_Loss: 0.066908	CNN_Loss: 0.000000	Ask_rate: 0.884750
+[Epoch 1]
+cnt_over_thres: 53198
+cnt_under_thres: 6802
+Ask_rate: 0.886633
+Test Loss: 0.0913, Accuracy: 97.72%

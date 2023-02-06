@@ -1,0 +1,112 @@
+2022-10-12 21:27:46.989786
+Threshold: 0.021
+[Epoch 1]
+cnt_over_thres: 934
+cnt_under_thres: 3
+Ask_rate: 0.996798
+Test Loss: 0.1932, Accuracy: 93.81%
+[Epoch 2]
+cnt_over_thres: 1267
+cnt_under_thres: 607
+Ask_rate: 0.676094
+Test Loss: 0.5350, Accuracy: 87.48%
+[Epoch 3]
+cnt_over_thres: 1274
+cnt_under_thres: 1537
+Ask_rate: 0.453219
+Test Loss: 2.2394, Accuracy: 80.02%
+[Epoch 4]
+cnt_over_thres: 1274
+cnt_under_thres: 2474
+Ask_rate: 0.339915
+Test Loss: 41.0030, Accuracy: 10.06%
+[Epoch 5]
+cnt_over_thres: 1274
+cnt_under_thres: 3411
+Ask_rate: 0.271932
+Test Loss: 46.8637, Accuracy: 10.07%
+[Epoch 6]
+cnt_over_thres: 1274
+cnt_under_thres: 4348
+Ask_rate: 0.226610
+Test Loss: 47.2031, Accuracy: 10.09%
+[Epoch 7]
+cnt_over_thres: 1274
+cnt_under_thres: 5285
+Ask_rate: 0.194237
+Test Loss: 47.4404, Accuracy: 10.09%
+[Epoch 8]
+cnt_over_thres: 1274
+cnt_under_thres: 6222
+Ask_rate: 0.169957
+Test Loss: 47.6247, Accuracy: 10.06%
+[Epoch 9]
+cnt_over_thres: 1274
+cnt_under_thres: 7159
+Ask_rate: 0.151073
+Test Loss: 47.7322, Accuracy: 10.09%
+[Epoch 10]
+cnt_over_thres: 1274
+cnt_under_thres: 8096
+Ask_rate: 0.135966
+Test Loss: 47.8504, Accuracy: 10.07%
+2022-10-12 21:29:29.042544
+Threshold: 0.022000000000000002
+[Epoch 1]
+cnt_over_thres: 0
+cnt_under_thres: 937
+Ask_rate: 0.000000
+Test Loss: 47.9564, Accuracy: 10.08%
+[Epoch 2]
+cnt_over_thres: 0
+cnt_under_thres: 1874
+Ask_rate: 0.000000
+Test Loss: 48.0082, Accuracy: 10.0
+8%
+2022-10-16 21:13:34.396019
+Threshold: 0.021
+[Epoch 1]
+cnt_over_thres: 931
+cnt_under_thres: 6
+Ask_rate: 0.993597
+Test Loss: 0.2301, Accuracy: 92.86%
+[Epoch 2]
+cnt_over_thres: 1190
+cnt_under_thres: 684
+Ask_rate: 0.635005
+Test Loss: 0.2549, Accuracy: 93.30%
+[Epoch 3]
+cnt_over_thres: 1200
+cnt_under_thres: 1611
+Ask_rate: 0.426894
+Test Loss: 25.9370, Accuracy: 9.82%
+[Epoch 4]
+cnt_over_thres: 1200
+cnt_under_thres: 2548
+Ask_rate: 0.320171
+Test Loss: 28.5919, Accuracy: 9.81%
+[Epoch 5]
+cnt_over_thres: 1200
+cnt_under_thres: 3485
+Ask_rate: 0.256137
+Test Loss: 29.3822, Accuracy: 9.81%
+[Epoch 6]
+cnt_over_thres: 1200
+cnt_under_thres: 4422
+Ask_rate: 0.213447
+Test Loss: 29.8786, Accuracy: 9.80%
+[Epoch 7]
+cnt_over_thres: 1200
+cnt_under_thres: 5359
+Ask_rate: 0.182955
+Test Loss: 30.2533, Accuracy: 9.80%
+[Epoch 8]
+cnt_over_thres: 1200
+cnt_under_thres: 6296
+Ask_rate: 0.160085
+Test Loss: 30.5661, Accuracy: 9.79%
+[Epoch 9]
+cnt_over_thres: 1200
+cnt_under_thres: 7233
+Ask_rate: 0.142298
+Test Loss: 30.8097, Accuracy: 9.80%

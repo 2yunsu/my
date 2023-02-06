@@ -1,0 +1,56 @@
+2022-10-13 14:38:23.724529
+Start Threshold: 0.02
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.230729	CNN_Loss: 2.311358	Ask_rate: 1.000000	threshold: 0.000865
+2022-10-13 15:10:41.560244
+Start Threshold: 0.02
+2022-10-13 15:11:19.131105
+Start Threshold: 0.02
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.231723	CNN_Loss: 2.307504	Ask_rate: 1.000000	threshold: 0.000867
+2022-10-13 15:13:16.856618
+Start Threshold: 0.02
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.231304	CNN_Loss: 2.312438	Ask_rate: 1.000000	threshold: 0.000865
+[Epoch 1]
+cnt_over_thres: 937
+cnt_under_thres: 0
+Total Ask_rate: 1.000000
+Test Loss: 0.2523, Accuracy: 91.75%
+
+2022-10-13 15:14:15.792420
+Start Threshold: 0.02
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.231222	CNN_Loss: 2.294966	Ask_rate: 1.000000	threshold: 0.000871
+2022-10-13 15:15:46.600552
+Start Threshold: 0.02
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.231676	CNN_Loss: 2.290874	Ask_rate: 1.000000	threshold: 0.000873
+[Epoch 1]
+cnt_over_thres: 937
+cnt_under_thres: 0
+Total Ask_rate: 1.000000
+Test Loss: 0.2702, Accuracy: 91.25%
+
+2022-10-13 15:22:21.367284
+Start Threshold: 0.02
+2022-10-13 15:22:40.082210
+Start Threshold: 0.02
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.230160	CNN_Loss: 2.305726	Ask_rate: 1.000000	threshold: 0.000867
+[Epoch 1]
+cnt_over_thres: 937
+cnt_under_thres: 0
+Total Ask_rate: 1.000000
+Test Loss: 0.2782, Accuracy: 91.20%
+
+2022-10-13 15:29:08.274560
+Start Threshold: 0.02
+Train Epoch: 1 [0/60000 (0%)]	AE_Loss: 0.231640	CNN_Loss: 2.310368	Ask_rate: 1.000000	threshold: 0.000866
+[Epoch 1]
+cnt_over_thres: 937
+cnt_under_thres: 0
+Total Ask_rate: 1.000000
+Test Loss: 0.2633, Accuracy: 91.41%
+
+Train Epoch: 2 [0/60000 (0%)]	AE_Loss: 0.022634	CNN_Loss: 0.270339	Ask_rate: 1.000000	threshold: 0.000000
+[Epoch 2]
+cnt_over_thres: 1874
+cnt_under_thres: 0
+Total Ask_rate: 1.000000
+Test Loss: 0.1267, Accuracy: 95.84%
+
